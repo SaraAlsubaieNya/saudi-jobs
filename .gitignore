@@ -1,0 +1,17 @@
+# environments & secrets
+.venv/
+venv/
+.env
+
+# python junk
+__pycache__/
+*.pyc
+
+# mac junk
+.DS_Store
+
+# raw API responses — bulky, may contain recruiter contact info
+data/raw/
+
+# one-off QA artifact
+qa_sample.csv
