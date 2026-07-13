@@ -80,6 +80,27 @@ def main() -> None:
     print(f"Charts saved to {FIG_DIR}/")
     print("\nTop skills:")
     print(top.to_string())
+    # auto-update README stats block
+    from datetime import date
+    n = len(jobs_df)
+    junior_pct = (jobs_df["seniority"] == "Junior/Entry").mean() * 100
+    genai_pct = jobs_df["skills"].fillna("").str.contains("GenAI").mean() * 100
+    arabic_pct = jobs_df["skills"].fillna("").str.contains("Arabic").mean() * 100
+    stats = (f"<!-- STATS:START -->\n"
+             f"**Latest snapshot ({date.today():%b %d, %Y}): {n} postings** · "
+             f"junior/entry roles: {junior_pct:.0f}% · "
+             f"mention GenAI/LLMs: {genai_pct:.0f}% · "
+             f"require Arabic: {arabic_pct:.0f}%\n"
+             f"<!-- STATS:END -->")
+    import re as _re
+    readme = Path("README.md")
+    if readme.exists():
+        content = readme.read_text()
+        new = _re.sub(r"<!-- STATS:START -->.*?<!-- STATS:END -->", stats,
+                      content, flags=_re.DOTALL)
+        if new != content:
+            readme.write_text(new)
+            print("README stats refreshed")
 
 
 if __name__ == "__main__":
