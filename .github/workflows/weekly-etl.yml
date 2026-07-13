@@ -1,0 +1,33 @@
+name: Weekly job data refresh
+on:
+  schedule:
+    - cron: "0 6 * * 5"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  etl:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Collect new postings
+        env:
+          RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
+        run: python collect_jsearch.py
+      - name: Transform and analyze
+        run: |
+          python extract_skills.py
+          python analyze.py
+      - name: Commit refreshed data
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add data/processed figures
+          git commit -m "weekly data refresh $(date +%F)" || echo "no changes"
+          git push
