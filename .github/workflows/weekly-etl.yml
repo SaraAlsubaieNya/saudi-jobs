@@ -28,6 +28,6 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add data/processed figures
+          git add data/processed figures README.md
           git commit -m "weekly data refresh $(date +%F)" || echo "no changes"
           git push
