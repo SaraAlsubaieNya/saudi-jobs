@@ -9,6 +9,7 @@ LinkedIn, Indeed, Bayt, Glassdoor, and company career sites).
 ## Key findings
 
 <!-- STATS:START -->
+**Latest snapshot (Jul 17, 2026): 118 postings** · junior/entry roles: 3% · mention GenAI/LLMs: 21% · require Arabic: 8%
 <!-- STATS:END -->
 
 - **Junior/entry roles are scarce** — the Saudi data market is overwhelmingly
