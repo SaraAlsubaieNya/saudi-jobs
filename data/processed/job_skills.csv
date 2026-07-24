@@ -1,33 +1,37 @@
 title,company,seniority,role_family,skills
-Business Analyst (Data Warehouse And Analytics),DeepSource Technologies,Mid,Data Analyst,SQL
-Business Analyst (Data Warehouse And Analytics),DeepSource Technologies,Mid,Data Analyst,Spark
-Business Analyst (Data Warehouse And Analytics),DeepSource Technologies,Mid,Data Analyst,ETL
-Business Analyst (Data Warehouse And Analytics),DeepSource Technologies,Mid,Data Analyst,Data Warehousing
-Business Analyst (Data Warehouse And Analytics),DeepSource Technologies,Mid,Data Analyst,Hadoop
-Business Analyst (Data Warehouse And Analytics),DeepSource Technologies,Mid,Data Analyst,Agile
-Business Analyst (Data Warehouse And Analytics),DeepSource Technologies,Mid,Data Analyst,Data Governance
-Business Analyst (Data Warehouse And Analytics),DeepSource Technologies,Mid,Data Analyst,Communication
-Business Analyst (Data Warehouse And Analytics),DeepSource Technologies,Mid,Data Analyst,Dashboards/Reporting
-University Data Analyst: Enrollment & Planning Insights,Prince-Mohammad-Bin-Fahd-University,Mid,Data Analyst,SQL
-University Data Analyst: Enrollment & Planning Insights,Prince-Mohammad-Bin-Fahd-University,Mid,Data Analyst,Statistics
-Remote Search Analyst Saudi Arabia,TELUS Digital AI Data Solutions,Mid,Data Analyst,Machine Learning
-Remote Search Analyst Saudi Arabia,TELUS Digital AI Data Solutions,Mid,Data Analyst,Arabic
+HR Data Analyst,SAUDI GOLD Refinery Co.,Mid,Data Analyst,SQL
+HR Data Analyst,SAUDI GOLD Refinery Co.,Mid,Data Analyst,Power BI
+HR Data Analyst,SAUDI GOLD Refinery Co.,Mid,Data Analyst,Excel
+HR Data Analyst,SAUDI GOLD Refinery Co.,Mid,Data Analyst,Statistics
+HR Data Analyst,SAUDI GOLD Refinery Co.,Mid,Data Analyst,Oracle
+HR Data Analyst,SAUDI GOLD Refinery Co.,Mid,Data Analyst,SAP
+HR Data Analyst,SAUDI GOLD Refinery Co.,Mid,Data Analyst,Data Governance
+HR Data Analyst,SAUDI GOLD Refinery Co.,Mid,Data Analyst,Arabic
+HR Data Analyst,SAUDI GOLD Refinery Co.,Mid,Data Analyst,Communication
+HR Data Analyst,SAUDI GOLD Refinery Co.,Mid,Data Analyst,Dashboards/Reporting
+Junior Business Analyst: Data & Process Optimizer,Saudi Telecom Company,Junior/Entry,Data Analyst,Communication
+Junior Business Analyst: Data & Process Optimizer,Saudi Telecom Company,Junior/Entry,Data Analyst,Dashboards/Reporting
+"Data Analyst: Insights, Dashboards & Forecasting",Netrolynx AI,Mid,Data Analyst,Python
+"Data Analyst: Insights, Dashboards & Forecasting",Netrolynx AI,Mid,Data Analyst,SQL
+"Data Analyst: Insights, Dashboards & Forecasting",Netrolynx AI,Mid,Data Analyst,R
+"Data Analyst: Insights, Dashboards & Forecasting",Netrolynx AI,Mid,Data Analyst,Power BI
+"Data Analyst: Insights, Dashboards & Forecasting",Netrolynx AI,Mid,Data Analyst,Tableau
+"Data Analyst: Insights, Dashboards & Forecasting",Netrolynx AI,Mid,Data Analyst,Excel
+"Data Analyst: Insights, Dashboards & Forecasting",Netrolynx AI,Mid,Data Analyst,Communication
+"Data Analyst: Insights, Dashboards & Forecasting",Netrolynx AI,Mid,Data Analyst,Dashboards/Reporting
+Drilling Data Analyst,Virtucruit,Mid,Data Analyst,Power BI
+Drilling Data Analyst,Virtucruit,Mid,Data Analyst,Statistics
+Drilling Data Analyst,Virtucruit,Mid,Data Analyst,Communication
+Drilling Data Analyst,Virtucruit,Mid,Data Analyst,Dashboards/Reporting
+Telecom Data Analyst (DW/BI) - Riyadh,DeepSource Technologies,Mid,Data Analyst,Data Warehousing
+Telecom Data Analyst (DW/BI) - Riyadh,DeepSource Technologies,Mid,Data Analyst,Communication
 Data Quality Analyst,Brainlake Advertising LLC,Senior,Data Analyst,SQL
 Data Quality Analyst,Brainlake Advertising LLC,Senior,Data Analyst,Power BI
 Data Quality Analyst,Brainlake Advertising LLC,Senior,Data Analyst,Tableau
 Data Quality Analyst,Brainlake Advertising LLC,Senior,Data Analyst,Data Governance
 Data Quality Analyst,Brainlake Advertising LLC,Senior,Data Analyst,Communication
 Data Quality Analyst,Brainlake Advertising LLC,Senior,Data Analyst,Dashboards/Reporting
-Data Analyst - Last Mile Performance,Ninja,Mid,Data Analyst,Python
-Data Analyst - Last Mile Performance,Ninja,Mid,Data Analyst,SQL
-Data Analyst - Last Mile Performance,Ninja,Mid,Data Analyst,Power BI
-Data Analyst - Last Mile Performance,Ninja,Mid,Data Analyst,Tableau
-Data Analyst - Last Mile Performance,Ninja,Mid,Data Analyst,Excel
-Data Analyst - Last Mile Performance,Ninja,Mid,Data Analyst,Statistics
-Data Analyst - Last Mile Performance,Ninja,Mid,Data Analyst,Data Governance
-Data Analyst - Last Mile Performance,Ninja,Mid,Data Analyst,Communication
-Data Analyst - Last Mile Performance,Ninja,Mid,Data Analyst,Dashboards/Reporting
-Data Analyst Trainee,"Johnson Controls Arabia, Inc.",Junior/Entry,Data Analyst,Statistics
+GCP Data Platform & AI Lead - Real-Time Analytics,Syarah,Lead/Manager+,Data Scientist,GCP
 Data Analytics & Reporting Manager(3720),Khatib & Alami,Lead/Manager+,Data Analyst,Power BI
 Data Analytics & Reporting Manager(3720),Khatib & Alami,Lead/Manager+,Data Analyst,Excel
 Data Analytics & Reporting Manager(3720),Khatib & Alami,Lead/Manager+,Data Analyst,ETL
@@ -35,6 +39,21 @@ Data Analytics & Reporting Manager(3720),Khatib & Alami,Lead/Manager+,Data Analy
 Data Analytics & Reporting Manager(3720),Khatib & Alami,Lead/Manager+,Data Analyst,Data Governance
 Data Analytics & Reporting Manager(3720),Khatib & Alami,Lead/Manager+,Data Analyst,Communication
 Data Analytics & Reporting Manager(3720),Khatib & Alami,Lead/Manager+,Data Analyst,Dashboards/Reporting
+Junior Customer Experience Data Analyst,BUPA Arabia,Junior/Entry,Data Analyst,Communication
+Business Analyst (Data Warehouse & Analytics),Deepsource Technologies,Senior,Data Analyst,SQL
+Business Analyst (Data Warehouse & Analytics),Deepsource Technologies,Senior,Data Analyst,Spark
+Business Analyst (Data Warehouse & Analytics),Deepsource Technologies,Senior,Data Analyst,ETL
+Business Analyst (Data Warehouse & Analytics),Deepsource Technologies,Senior,Data Analyst,Data Warehousing
+Business Analyst (Data Warehouse & Analytics),Deepsource Technologies,Senior,Data Analyst,Hadoop
+Business Analyst (Data Warehouse & Analytics),Deepsource Technologies,Senior,Data Analyst,Agile
+Business Analyst (Data Warehouse & Analytics),Deepsource Technologies,Senior,Data Analyst,Data Governance
+Business Analyst (Data Warehouse & Analytics),Deepsource Technologies,Senior,Data Analyst,Communication
+Business Analyst (Data Warehouse & Analytics),Deepsource Technologies,Senior,Data Analyst,Dashboards/Reporting
+Data Analyst NBFI Data Standardization,Leading Edge,Mid,Data Analyst,Python
+Data Analyst NBFI Data Standardization,Leading Edge,Mid,Data Analyst,SQL
+Data Analyst NBFI Data Standardization,Leading Edge,Mid,Data Analyst,Excel
+Data Analyst NBFI Data Standardization,Leading Edge,Mid,Data Analyst,Communication
+Data Analyst NBFI Data Standardization,Leading Edge,Mid,Data Analyst,Dashboards/Reporting
 Data Program Analyst (Saudi Arabia),Eram Talent,Mid,Data Analyst,Python
 Data Program Analyst (Saudi Arabia),Eram Talent,Mid,Data Analyst,SQL
 Data Program Analyst (Saudi Arabia),Eram Talent,Mid,Data Analyst,R
@@ -44,9 +63,65 @@ Data Program Analyst (Saudi Arabia),Eram Talent,Mid,Data Analyst,Statistics
 Data Program Analyst (Saudi Arabia),Eram Talent,Mid,Data Analyst,Arabic
 Data Program Analyst (Saudi Arabia),Eram Talent,Mid,Data Analyst,Communication
 Data Program Analyst (Saudi Arabia),Eram Talent,Mid,Data Analyst,Dashboards/Reporting
-Data Analyst Excel - Remote,YO IT Consulting,Mid,Data Analyst,Excel
-Data Analyst Excel - Remote,YO IT Consulting,Mid,Data Analyst,Communication
-Data Analyst Excel - Remote,YO IT Consulting,Mid,Data Analyst,Dashboards/Reporting
+Aftersales Data Analyst,Petromin Corporation,Mid,Data Analyst,Python
+Aftersales Data Analyst,Petromin Corporation,Mid,Data Analyst,SQL
+Aftersales Data Analyst,Petromin Corporation,Mid,Data Analyst,Power BI
+Aftersales Data Analyst,Petromin Corporation,Mid,Data Analyst,Excel
+Aftersales Data Analyst,Petromin Corporation,Mid,Data Analyst,Machine Learning
+Aftersales Data Analyst,Petromin Corporation,Mid,Data Analyst,Statistics
+Aftersales Data Analyst,Petromin Corporation,Mid,Data Analyst,Data Governance
+Aftersales Data Analyst,Petromin Corporation,Mid,Data Analyst,Arabic
+Aftersales Data Analyst,Petromin Corporation,Mid,Data Analyst,Communication
+Aftersales Data Analyst,Petromin Corporation,Mid,Data Analyst,Dashboards/Reporting
+Data Program Analyst (Saudi Arabia),Confidential,Mid,Data Analyst,Python
+Data Program Analyst (Saudi Arabia),Confidential,Mid,Data Analyst,SQL
+Data Program Analyst (Saudi Arabia),Confidential,Mid,Data Analyst,R
+Data Program Analyst (Saudi Arabia),Confidential,Mid,Data Analyst,Power BI
+Data Program Analyst (Saudi Arabia),Confidential,Mid,Data Analyst,Tableau
+Data Program Analyst (Saudi Arabia),Confidential,Mid,Data Analyst,Statistics
+Data Program Analyst (Saudi Arabia),Confidential,Mid,Data Analyst,Arabic
+Data Program Analyst (Saudi Arabia),Confidential,Mid,Data Analyst,Communication
+Data Program Analyst (Saudi Arabia),Confidential,Mid,Data Analyst,Dashboards/Reporting
+"Principal Specialist, Data Science & Analytics",Ma'aden Legal Employer,Lead/Manager+,Data Scientist,SQL
+"Principal Specialist, Data Science & Analytics",Ma'aden Legal Employer,Lead/Manager+,Data Scientist,AWS
+"Principal Specialist, Data Science & Analytics",Ma'aden Legal Employer,Lead/Manager+,Data Scientist,Azure
+"Principal Specialist, Data Science & Analytics",Ma'aden Legal Employer,Lead/Manager+,Data Scientist,Spark
+"Principal Specialist, Data Science & Analytics",Ma'aden Legal Employer,Lead/Manager+,Data Scientist,ETL
+"Principal Specialist, Data Science & Analytics",Ma'aden Legal Employer,Lead/Manager+,Data Scientist,Machine Learning
+"Principal Specialist, Data Science & Analytics",Ma'aden Legal Employer,Lead/Manager+,Data Scientist,Deep Learning
+"Principal Specialist, Data Science & Analytics",Ma'aden Legal Employer,Lead/Manager+,Data Scientist,GenAI / LLMs
+"Principal Specialist, Data Science & Analytics",Ma'aden Legal Employer,Lead/Manager+,Data Scientist,Statistics
+"Principal Specialist, Data Science & Analytics",Ma'aden Legal Employer,Lead/Manager+,Data Scientist,Data Governance
+"Principal Specialist, Data Science & Analytics",Ma'aden Legal Employer,Lead/Manager+,Data Scientist,Communication
+"Principal Specialist, Data Science & Analytics",Ma'aden Legal Employer,Lead/Manager+,Data Scientist,Dashboards/Reporting
+Data Scientist / Advanced Analytics Consultant - 0 12+ Years Experience,Datamatics Global Service,Lead/Manager+,Data Scientist,Python
+Data Scientist / Advanced Analytics Consultant - 0 12+ Years Experience,Datamatics Global Service,Lead/Manager+,Data Scientist,SQL
+Data Scientist / Advanced Analytics Consultant - 0 12+ Years Experience,Datamatics Global Service,Lead/Manager+,Data Scientist,R
+Data Scientist / Advanced Analytics Consultant - 0 12+ Years Experience,Datamatics Global Service,Lead/Manager+,Data Scientist,Power BI
+Data Scientist / Advanced Analytics Consultant - 0 12+ Years Experience,Datamatics Global Service,Lead/Manager+,Data Scientist,Tableau
+Data Scientist / Advanced Analytics Consultant - 0 12+ Years Experience,Datamatics Global Service,Lead/Manager+,Data Scientist,Looker
+Data Scientist / Advanced Analytics Consultant - 0 12+ Years Experience,Datamatics Global Service,Lead/Manager+,Data Scientist,GCP
+Data Scientist / Advanced Analytics Consultant - 0 12+ Years Experience,Datamatics Global Service,Lead/Manager+,Data Scientist,Spark
+Data Scientist / Advanced Analytics Consultant - 0 12+ Years Experience,Datamatics Global Service,Lead/Manager+,Data Scientist,Data Warehousing
+Data Scientist / Advanced Analytics Consultant - 0 12+ Years Experience,Datamatics Global Service,Lead/Manager+,Data Scientist,Machine Learning
+Data Scientist / Advanced Analytics Consultant - 0 12+ Years Experience,Datamatics Global Service,Lead/Manager+,Data Scientist,Statistics
+Data Scientist / Advanced Analytics Consultant - 0 12+ Years Experience,Datamatics Global Service,Lead/Manager+,Data Scientist,Agile
+Data Scientist / Advanced Analytics Consultant - 0 12+ Years Experience,Datamatics Global Service,Lead/Manager+,Data Scientist,Data Governance
+Data Scientist / Advanced Analytics Consultant - 0 12+ Years Experience,Datamatics Global Service,Lead/Manager+,Data Scientist,Communication
+Data Scientist / Advanced Analytics Consultant - 0 12+ Years Experience,Datamatics Global Service,Lead/Manager+,Data Scientist,Dashboards/Reporting
+Senior Data Analyst: Turn Data into Strategic Insights,Salla,Senior,Data Analyst,Python
+Senior Data Analyst: Turn Data into Strategic Insights,Salla,Senior,Data Analyst,Tableau
+Senior Data Analyst: Turn Data into Strategic Insights,Salla,Senior,Data Analyst,Looker
+Senior Data Analyst: Turn Data into Strategic Insights,Salla,Senior,Data Analyst,Dashboards/Reporting
+Downstream Transformation Analyst,Aramco,Lead/Manager+,Data Analyst,Communication
+Downstream Transformation Analyst,Aramco,Lead/Manager+,Data Analyst,Dashboards/Reporting
+Remote Search Analyst Saudi Arabia,TELUS Digital AI Data Solutions,Mid,Data Analyst,Machine Learning
+Remote Search Analyst Saudi Arabia,TELUS Digital AI Data Solutions,Mid,Data Analyst,Arabic
+Data Programs Analyst: Insights & Dashboards,Eram Talent,Mid,Data Analyst,SQL
+Data Programs Analyst: Insights & Dashboards,Eram Talent,Mid,Data Analyst,Communication
+Data Programs Analyst: Insights & Dashboards,Eram Talent,Mid,Data Analyst,Dashboards/Reporting
+Telecom Data Analyst; DW​/BI,DeepSource Technologies,Mid,Data Analyst,Data Warehousing
+Telecom Data Analyst; DW​/BI,DeepSource Technologies,Mid,Data Analyst,Communication
 Senior Data Analyst AI,Salla,Senior,Data Scientist,Python
 Senior Data Analyst AI,Salla,Senior,Data Scientist,SQL
 Senior Data Analyst AI,Salla,Senior,Data Scientist,Tableau
@@ -60,31 +135,6 @@ Senior Data Analyst AI,Salla,Senior,Data Scientist,Machine Learning
 Senior Data Analyst AI,Salla,Senior,Data Scientist,GenAI / LLMs
 Senior Data Analyst AI,Salla,Senior,Data Scientist,Statistics
 Senior Data Analyst AI,Salla,Senior,Data Scientist,Dashboards/Reporting
-Data Analyst NBFI Data Standardization,Leading Edge,Mid,Data Analyst,Python
-Data Analyst NBFI Data Standardization,Leading Edge,Mid,Data Analyst,SQL
-Data Analyst NBFI Data Standardization,Leading Edge,Mid,Data Analyst,Excel
-Data Analyst NBFI Data Standardization,Leading Edge,Mid,Data Analyst,Communication
-Data Analyst NBFI Data Standardization,Leading Edge,Mid,Data Analyst,Dashboards/Reporting
-Data Analytics Manager,confidential government,Lead/Manager+,Data Analyst,Python
-Data Analytics Manager,confidential government,Lead/Manager+,Data Analyst,SQL
-Data Analytics Manager,confidential government,Lead/Manager+,Data Analyst,R
-Data Analytics Manager,confidential government,Lead/Manager+,Data Analyst,Power BI
-Data Analytics Manager,confidential government,Lead/Manager+,Data Analyst,Tableau
-Data Analytics Manager,confidential government,Lead/Manager+,Data Analyst,Statistics
-Data Analytics Manager,confidential government,Lead/Manager+,Data Analyst,Data Governance
-Data Analytics Manager,confidential government,Lead/Manager+,Data Analyst,Dashboards/Reporting
-Senior Data Analyst: Turn Data into Strategic Insights,Salla,Senior,Data Analyst,Python
-Senior Data Analyst: Turn Data into Strategic Insights,Salla,Senior,Data Analyst,Tableau
-Senior Data Analyst: Turn Data into Strategic Insights,Salla,Senior,Data Analyst,Looker
-Senior Data Analyst: Turn Data into Strategic Insights,Salla,Senior,Data Analyst,Dashboards/Reporting
-Head of Data Analytics & Insights,Confidential Government,Lead/Manager+,Data Analyst,Python
-Head of Data Analytics & Insights,Confidential Government,Lead/Manager+,Data Analyst,SQL
-Head of Data Analytics & Insights,Confidential Government,Lead/Manager+,Data Analyst,R
-Data Programs Analyst: Insights & Dashboards,Eram Talent,Mid,Data Analyst,SQL
-Data Programs Analyst: Insights & Dashboards,Eram Talent,Mid,Data Analyst,Communication
-Data Programs Analyst: Insights & Dashboards,Eram Talent,Mid,Data Analyst,Dashboards/Reporting
-FM Strategy & Data Analyst Trainee,Rua Al Madinah Holding,Junior/Entry,Data Analyst,Arabic
-FM Strategy & Data Analyst Trainee,Rua Al Madinah Holding,Junior/Entry,Data Analyst,Dashboards/Reporting
 Spatial Data Analyst | Saudi Arabia - Immediate Joiner,Your Retail Coach,Senior,Data Analyst,Python
 Spatial Data Analyst | Saudi Arabia - Immediate Joiner,Your Retail Coach,Senior,Data Analyst,SQL
 Spatial Data Analyst | Saudi Arabia - Immediate Joiner,Your Retail Coach,Senior,Data Analyst,Power BI
@@ -93,61 +143,68 @@ Spatial Data Analyst | Saudi Arabia - Immediate Joiner,Your Retail Coach,Senior,
 Spatial Data Analyst | Saudi Arabia - Immediate Joiner,Your Retail Coach,Senior,Data Analyst,Data Governance
 Spatial Data Analyst | Saudi Arabia - Immediate Joiner,Your Retail Coach,Senior,Data Analyst,Communication
 Spatial Data Analyst | Saudi Arabia - Immediate Joiner,Your Retail Coach,Senior,Data Analyst,Dashboards/Reporting
-HR Web developer & Data Analyst,Skills Acquisition,Mid,Data Analyst,Data Governance
-HR Web developer & Data Analyst,Skills Acquisition,Mid,Data Analyst,Communication
-HR Web developer & Data Analyst,Skills Acquisition,Mid,Data Analyst,Dashboards/Reporting
-Senior Data Analyst,Wtsenergy,Senior,Data Analyst,Python
-Senior Data Analyst,Wtsenergy,Senior,Data Analyst,SQL
-Senior Data Analyst,Wtsenergy,Senior,Data Analyst,R
-Senior Data Analyst,Wtsenergy,Senior,Data Analyst,Power BI
-Senior Data Analyst,Wtsenergy,Senior,Data Analyst,Tableau
-Senior Data Analyst,Wtsenergy,Senior,Data Analyst,Oracle
-Senior Data Analyst,Wtsenergy,Senior,Data Analyst,SAP
-Senior Data Analyst,Wtsenergy,Senior,Data Analyst,SAS
-Senior Data Analyst,Wtsenergy,Senior,Data Analyst,Data Governance
-Senior Data Analyst,Wtsenergy,Senior,Data Analyst,Communication
-Senior Data Analyst,Wtsenergy,Senior,Data Analyst,Dashboards/Reporting
-Healthcare BI & Data Insights Specialist,Saudi Business Machines,Senior,Other Data Role,SQL
-Healthcare BI & Data Insights Specialist,Saudi Business Machines,Senior,Other Data Role,Communication
-Business Analyst,confidential,Mid,Data Analyst,Dashboards/Reporting
-Senior Data Analyst,United Group,Senior,Data Analyst,Power BI
-Senior Data Analyst,United Group,Senior,Data Analyst,SAP
-Senior Data Analyst,United Group,Senior,Data Analyst,Data Governance
-Senior Data Analyst,United Group,Senior,Data Analyst,Communication
-Senior Data Analyst,United Group,Senior,Data Analyst,Dashboards/Reporting
+Freelance Search Analyst Saudi Arabia (Work From Home),TELUS Digital AI Data Solutions,Mid,Data Analyst,Machine Learning
+Freelance Search Analyst Saudi Arabia (Work From Home),TELUS Digital AI Data Solutions,Mid,Data Analyst,Arabic
+Data Analyst & KPIs Report,Atkins Realis Group,Mid,Data Analyst,Power BI
+Data Analyst & KPIs Report,Atkins Realis Group,Mid,Data Analyst,Excel
+Data Analyst & KPIs Report,Atkins Realis Group,Mid,Data Analyst,Communication
+Data Analyst & KPIs Report,Atkins Realis Group,Mid,Data Analyst,Dashboards/Reporting
+Data Analytics Engineer: Power BI Dashboards & Insights,Raqmiyat,Mid,BI Developer,SQL
+Data Analytics Engineer: Power BI Dashboards & Insights,Raqmiyat,Mid,BI Developer,Power BI
+Data Analytics Engineer: Power BI Dashboards & Insights,Raqmiyat,Mid,BI Developer,Dashboards/Reporting
+Planning & Performance Analyst,Aramco,Lead/Manager+,Data Analyst,Communication
+Planning & Performance Analyst,Aramco,Lead/Manager+,Data Analyst,Dashboards/Reporting
+Informatica (MDM) Developer - Data Governance (Saudi Arabia),Confidential,Lead/Manager+,Other Data Role,SQL
+Informatica (MDM) Developer - Data Governance (Saudi Arabia),Confidential,Lead/Manager+,Other Data Role,ETL
+Informatica (MDM) Developer - Data Governance (Saudi Arabia),Confidential,Lead/Manager+,Other Data Role,Oracle
+Informatica (MDM) Developer - Data Governance (Saudi Arabia),Confidential,Lead/Manager+,Other Data Role,SQL Server
+Informatica (MDM) Developer - Data Governance (Saudi Arabia),Confidential,Lead/Manager+,Other Data Role,Data Governance
+Informatica (MDM) Developer - Data Governance (Saudi Arabia),Confidential,Lead/Manager+,Other Data Role,Communication
 "Senior Data Analyst: AI, Automation & Insights",tabby,Senior,Data Scientist,SQL
 "Senior Data Analyst: AI, Automation & Insights",tabby,Senior,Data Scientist,Tableau
 "Senior Data Analyst: AI, Automation & Insights",tabby,Senior,Data Scientist,GenAI / LLMs
 "Senior Data Analyst: AI, Automation & Insights",tabby,Senior,Data Scientist,Dashboards/Reporting
-MI & Data Analysis Analyst,FNRCO,Mid,Data Analyst,Power BI
-MI & Data Analysis Analyst,FNRCO,Mid,Data Analyst,Tableau
-MI & Data Analysis Analyst,FNRCO,Mid,Data Analyst,Excel
-MI & Data Analysis Analyst,FNRCO,Mid,Data Analyst,Communication
-MI & Data Analysis Analyst,FNRCO,Mid,Data Analyst,Dashboards/Reporting
-Data Scientist / Advanced Analytics Consultant,Datamatics Technologies,Mid,Data Scientist,Tableau
-Data Scientist / Advanced Analytics Consultant,Datamatics Technologies,Mid,Data Scientist,Machine Learning
-Data Scientist / Advanced Analytics Consultant,Datamatics Technologies,Mid,Data Scientist,Statistics
-Data Scientist / Advanced Analytics Consultant,Datamatics Technologies,Mid,Data Scientist,Agile
-Data Scientist / Advanced Analytics Consultant,Datamatics Technologies,Mid,Data Scientist,Data Governance
-Data Scientist / Advanced Analytics Consultant,Datamatics Technologies,Mid,Data Scientist,Communication
-Data Scientist / Advanced Analytics Consultant,Datamatics Technologies,Mid,Data Scientist,Dashboards/Reporting
-Actuarial Data Scientist,Hala,Senior,Data Scientist,Python
-Actuarial Data Scientist,Hala,Senior,Data Scientist,SQL
-Actuarial Data Scientist,Hala,Senior,Data Scientist,Machine Learning
-Actuarial Data Scientist,Hala,Senior,Data Scientist,Statistics
-Actuarial Data Scientist,Hala,Senior,Data Scientist,Data Governance
-Actuarial Data Scientist,Hala,Senior,Data Scientist,Communication
-Actuarial Data Scientist,Hala,Senior,Data Scientist,Dashboards/Reporting
-Actuarial Data Scientist - Credit Risk & ML (Hybrid),HALA,Mid,Data Scientist,Machine Learning
-Senior Data Scientist,Salla,Senior,Data Scientist,GCP
-Senior Data Scientist,Salla,Senior,Data Scientist,Spark
-Senior Data Scientist,Salla,Senior,Data Scientist,Kafka
-Senior Data Scientist,Salla,Senior,Data Scientist,Machine Learning
-Senior Data Scientist,Salla,Senior,Data Scientist,Deep Learning
-Senior Data Scientist — GenAI & Scalable ML Solutions,Brainlake,Senior,Data Scientist,ETL
-Senior Data Scientist — GenAI & Scalable ML Solutions,Brainlake,Senior,Data Scientist,Machine Learning
-Senior Data Scientist — GenAI & Scalable ML Solutions,Brainlake,Senior,Data Scientist,GenAI / LLMs
-Senior Data Scientist — GenAI & Scalable ML Solutions,Brainlake,Senior,Data Scientist,Communication
+Senior Data Scientist Transaction Intelligence,Malaa Technologies,Senior,Data Scientist,Python
+Senior Data Scientist Transaction Intelligence,Malaa Technologies,Senior,Data Scientist,SQL
+Senior Data Scientist Transaction Intelligence,Malaa Technologies,Senior,Data Scientist,Machine Learning
+Senior Data Scientist Transaction Intelligence,Malaa Technologies,Senior,Data Scientist,GenAI / LLMs
+Senior Data Scientist Transaction Intelligence,Malaa Technologies,Senior,Data Scientist,Statistics
+Senior Data Scientist Transaction Intelligence,Malaa Technologies,Senior,Data Scientist,Data Governance
+Senior Data Scientist Transaction Intelligence,Malaa Technologies,Senior,Data Scientist,Arabic
+Senior Data Scientist — Transaction Intelligence,Malaa,Senior,Data Scientist,Python
+Senior Data Scientist — Transaction Intelligence,Malaa,Senior,Data Scientist,SQL
+Senior Data Scientist — Transaction Intelligence,Malaa,Senior,Data Scientist,Machine Learning
+Senior Data Scientist — Transaction Intelligence,Malaa,Senior,Data Scientist,GenAI / LLMs
+Senior Data Scientist — Transaction Intelligence,Malaa,Senior,Data Scientist,Statistics
+Senior Data Scientist — Transaction Intelligence,Malaa,Senior,Data Scientist,Data Governance
+Senior Data Scientist — Transaction Intelligence,Malaa,Senior,Data Scientist,Arabic
+Data Scientist III,Mozn,Mid,Data Scientist,Python
+Data Scientist III,Mozn,Mid,Data Scientist,SQL
+Data Scientist III,Mozn,Mid,Data Scientist,Spark
+Data Scientist III,Mozn,Mid,Data Scientist,Machine Learning
+Data Scientist III,Mozn,Mid,Data Scientist,Deep Learning
+Data Scientist III,Mozn,Mid,Data Scientist,Statistics
+Data Scientist III,Mozn,Mid,Data Scientist,NoSQL
+Data Scientist III,Mozn,Mid,Data Scientist,Git
+Data Scientist III,Mozn,Mid,Data Scientist,Docker/K8s
+Data Scientist III,Mozn,Mid,Data Scientist,Communication
+Downstream Data Scientist – ML & Optimization Expert,Saudi Aramco,Lead/Manager+,Data Scientist,Python
+Downstream Data Scientist – ML & Optimization Expert,Saudi Aramco,Lead/Manager+,Data Scientist,Machine Learning
+Machine Learning Scientist,Silver Edge Arabia,Senior,Data Scientist,Python
+Machine Learning Scientist,Silver Edge Arabia,Senior,Data Scientist,SQL
+Machine Learning Scientist,Silver Edge Arabia,Senior,Data Scientist,GCP
+Machine Learning Scientist,Silver Edge Arabia,Senior,Data Scientist,Spark
+Machine Learning Scientist,Silver Edge Arabia,Senior,Data Scientist,Airflow
+Machine Learning Scientist,Silver Edge Arabia,Senior,Data Scientist,Data Warehousing
+Machine Learning Scientist,Silver Edge Arabia,Senior,Data Scientist,Machine Learning
+Machine Learning Scientist,Silver Edge Arabia,Senior,Data Scientist,Deep Learning
+Machine Learning Scientist,Silver Edge Arabia,Senior,Data Scientist,Statistics
+Machine Learning Scientist,Silver Edge Arabia,Senior,Data Scientist,Git
+Machine Learning Scientist,Silver Edge Arabia,Senior,Data Scientist,Docker/K8s
+Machine Learning Scientist,Silver Edge Arabia,Senior,Data Scientist,Dashboards/Reporting
+Senior AI & Data Science Specialist - Drive Innovation,Ma'aden Gold and Base Metals (MGBM),Senior,Data Scientist,Machine Learning
+Senior AI & Data Science Specialist - Drive Innovation,Ma'aden Gold and Base Metals (MGBM),Senior,Data Scientist,Dashboards/Reporting
+Data Scientist: Predictive Modeling & Insights Leader,Müller`s Solutions,Mid,Data Scientist,Statistics
 Saudi National Data Scientist - Analytics & ML Modeling,Raqmiyat,Mid,Data Scientist,Python
 Saudi National Data Scientist - Analytics & ML Modeling,Raqmiyat,Mid,Data Scientist,SQL
 Saudi National Data Scientist - Analytics & ML Modeling,Raqmiyat,Mid,Data Scientist,R
@@ -155,79 +212,126 @@ Saudi National Data Scientist - Analytics & ML Modeling,Raqmiyat,Mid,Data Scient
 Saudi National Data Scientist - Analytics & ML Modeling,Raqmiyat,Mid,Data Scientist,Tableau
 Saudi National Data Scientist - Analytics & ML Modeling,Raqmiyat,Mid,Data Scientist,Machine Learning
 Saudi National Data Scientist - Analytics & ML Modeling,Raqmiyat,Mid,Data Scientist,Statistics
-Data Scientist - AI/ML for Predictive Insights (On-Site),Evolvice,Mid,Data Scientist,Power BI
-Data Scientist - AI/ML for Predictive Insights (On-Site),Evolvice,Mid,Data Scientist,Machine Learning
-Data Scientist - AI/ML for Predictive Insights (On-Site),Evolvice,Mid,Data Scientist,Deep Learning
-Data Scientist - AI/ML for Predictive Insights (On-Site),Evolvice,Mid,Data Scientist,GenAI / LLMs
-Data Scientist - AI/ML for Predictive Insights (On-Site),Evolvice,Mid,Data Scientist,Dashboards/Reporting
-Data Science Intern: Build AI Insights & Models,Mozn,Junior/Entry,Data Scientist,Python
-"Principal Specialist, Data Science & Analytics",Ma'aden Legal Employer,Lead/Manager+,Data Scientist,SQL
-"Principal Specialist, Data Science & Analytics",Ma'aden Legal Employer,Lead/Manager+,Data Scientist,AWS
-"Principal Specialist, Data Science & Analytics",Ma'aden Legal Employer,Lead/Manager+,Data Scientist,Azure
-"Principal Specialist, Data Science & Analytics",Ma'aden Legal Employer,Lead/Manager+,Data Scientist,Spark
-"Principal Specialist, Data Science & Analytics",Ma'aden Legal Employer,Lead/Manager+,Data Scientist,ETL
-"Principal Specialist, Data Science & Analytics",Ma'aden Legal Employer,Lead/Manager+,Data Scientist,Machine Learning
-"Principal Specialist, Data Science & Analytics",Ma'aden Legal Employer,Lead/Manager+,Data Scientist,Deep Learning
-"Principal Specialist, Data Science & Analytics",Ma'aden Legal Employer,Lead/Manager+,Data Scientist,GenAI / LLMs
-"Principal Specialist, Data Science & Analytics",Ma'aden Legal Employer,Lead/Manager+,Data Scientist,Statistics
-"Principal Specialist, Data Science & Analytics",Ma'aden Legal Employer,Lead/Manager+,Data Scientist,Data Governance
-"Principal Specialist, Data Science & Analytics",Ma'aden Legal Employer,Lead/Manager+,Data Scientist,Communication
-"Principal Specialist, Data Science & Analytics",Ma'aden Legal Employer,Lead/Manager+,Data Scientist,Dashboards/Reporting
-Card Analytics Data Scientist — Growth & Insights,Auxo Talent,Mid,Data Scientist,Communication
-Card Analytics Data Scientist — Growth & Insights,Auxo Talent,Mid,Data Scientist,Dashboards/Reporting
-"Staff/Lead Data Scientist (Bangkok based, Relocation provided)",Agoda,Lead/Manager+,Data Scientist,Python
-"Staff/Lead Data Scientist (Bangkok based, Relocation provided)",Agoda,Lead/Manager+,Data Scientist,SQL
-"Staff/Lead Data Scientist (Bangkok based, Relocation provided)",Agoda,Lead/Manager+,Data Scientist,Scala
-"Staff/Lead Data Scientist (Bangkok based, Relocation provided)",Agoda,Lead/Manager+,Data Scientist,Spark
-"Staff/Lead Data Scientist (Bangkok based, Relocation provided)",Agoda,Lead/Manager+,Data Scientist,Hadoop
-"Staff/Lead Data Scientist (Bangkok based, Relocation provided)",Agoda,Lead/Manager+,Data Scientist,Machine Learning
-"Staff/Lead Data Scientist (Bangkok based, Relocation provided)",Agoda,Lead/Manager+,Data Scientist,Deep Learning
-"Staff/Lead Data Scientist (Bangkok based, Relocation provided)",Agoda,Lead/Manager+,Data Scientist,NLP
-"Staff/Lead Data Scientist (Bangkok based, Relocation provided)",Agoda,Lead/Manager+,Data Scientist,Statistics
-"Staff/Lead Data Scientist (Bangkok based, Relocation provided)",Agoda,Lead/Manager+,Data Scientist,Agile
+Data Scientist / GenAI Specialist,CARBYNETECH,Senior,Data Scientist,Python
+Data Scientist / GenAI Specialist,CARBYNETECH,Senior,Data Scientist,SQL
+Data Scientist / GenAI Specialist,CARBYNETECH,Senior,Data Scientist,AWS
+Data Scientist / GenAI Specialist,CARBYNETECH,Senior,Data Scientist,Azure
+Data Scientist / GenAI Specialist,CARBYNETECH,Senior,Data Scientist,GCP
+Data Scientist / GenAI Specialist,CARBYNETECH,Senior,Data Scientist,Machine Learning
+Data Scientist / GenAI Specialist,CARBYNETECH,Senior,Data Scientist,Deep Learning
+Data Scientist / GenAI Specialist,CARBYNETECH,Senior,Data Scientist,GenAI / LLMs
+Data Scientist / GenAI Specialist,CARBYNETECH,Senior,Data Scientist,Git
+Data Scientist / GenAI Specialist,CARBYNETECH,Senior,Data Scientist,Agile
+Data Scientist / GenAI Specialist,CARBYNETECH,Senior,Data Scientist,SAP
+Actuarial Data Scientist,HALA,Senior,Data Scientist,Python
+Actuarial Data Scientist,HALA,Senior,Data Scientist,SQL
+Actuarial Data Scientist,HALA,Senior,Data Scientist,Machine Learning
+Actuarial Data Scientist,HALA,Senior,Data Scientist,Statistics
+Actuarial Data Scientist,HALA,Senior,Data Scientist,Data Governance
+Actuarial Data Scientist,HALA,Senior,Data Scientist,Communication
+Actuarial Data Scientist,HALA,Senior,Data Scientist,Dashboards/Reporting
+"Senior Data Scientist: ML, Insights & Strategy",Gathern,Senior,Data Scientist,Python
+"Senior Data Scientist: ML, Insights & Strategy",Gathern,Senior,Data Scientist,SQL
+"Senior Data Scientist: ML, Insights & Strategy",Gathern,Senior,Data Scientist,Machine Learning
+"Senior Data Scientist: ML, Insights & Strategy",Gathern,Senior,Data Scientist,Dashboards/Reporting
+Technology Data Intelligence Specialist,Emdad By Elm,Senior,Other Data Role,SQL
+Technology Data Intelligence Specialist,Emdad By Elm,Senior,Other Data Role,Power BI
+Technology Data Intelligence Specialist,Emdad By Elm,Senior,Other Data Role,Tableau
+Technology Data Intelligence Specialist,Emdad By Elm,Senior,Other Data Role,Data Warehousing
+Technology Data Intelligence Specialist,Emdad By Elm,Senior,Other Data Role,Machine Learning
+Technology Data Intelligence Specialist,Emdad By Elm,Senior,Other Data Role,Communication
+Technology Data Intelligence Specialist,Emdad By Elm,Senior,Other Data Role,Dashboards/Reporting
+Faculty - Data Science,KAPSARC,Mid,Data Scientist,Machine Learning
+Data Scientist Computer Vision Engineer,Tata Consultancy Services,Lead/Manager+,Data Scientist,Deep Learning
+Data Scientist Computer Vision Engineer,Tata Consultancy Services,Lead/Manager+,Data Scientist,Docker/K8s
+Data Scientist Computer Vision Engineer,Tata Consultancy Services,Lead/Manager+,Data Scientist,Agile
+Data Lead,Syarah,Lead/Manager+,Other Data Role,Python
+Data Lead,Syarah,Lead/Manager+,Other Data Role,SQL
+Data Lead,Syarah,Lead/Manager+,Other Data Role,GCP
+Data Lead,Syarah,Lead/Manager+,Other Data Role,Airflow
+Data Lead,Syarah,Lead/Manager+,Other Data Role,ETL
+Data Lead,Syarah,Lead/Manager+,Other Data Role,Machine Learning
+Data Lead,Syarah,Lead/Manager+,Other Data Role,GenAI / LLMs
+Data Lead,Syarah,Lead/Manager+,Other Data Role,Docker/K8s
+Data Lead,Syarah,Lead/Manager+,Other Data Role,Communication
+Data Lead,Syarah,Lead/Manager+,Other Data Role,Dashboards/Reporting
+"Senior Data Science & Analytics Lead - AI, ML & MLOps",Maaden,Lead/Manager+,Data Scientist,Machine Learning
+Senior Data Scientist - Fraud & AML Intelligence,Ummahjobs,Senior,Data Scientist,Python
+Senior Data Scientist - Fraud & AML Intelligence,Ummahjobs,Senior,Data Scientist,SQL
 Senior Data Science Consultant – Cards Marketing Analytics,Onepoint Consultants DWC- LLC,Senior,Data Scientist,Python
 Senior Data Science Consultant – Cards Marketing Analytics,Onepoint Consultants DWC- LLC,Senior,Data Scientist,SQL
 Senior Data Science Consultant – Cards Marketing Analytics,Onepoint Consultants DWC- LLC,Senior,Data Scientist,Machine Learning
 Senior Data Science Consultant – Cards Marketing Analytics,Onepoint Consultants DWC- LLC,Senior,Data Scientist,Statistics
 Senior Data Science Consultant – Cards Marketing Analytics,Onepoint Consultants DWC- LLC,Senior,Data Scientist,SAS
 Senior Data Science Consultant – Cards Marketing Analytics,Onepoint Consultants DWC- LLC,Senior,Data Scientist,Communication
-Faculty - Data Science,KAPSARC,Mid,Data Scientist,Machine Learning
-Senior Generative AI & Enterprise Data Scientist,CARBYNETECH,Senior,Data Scientist,Python
-Senior Generative AI & Enterprise Data Scientist,CARBYNETECH,Senior,Data Scientist,Machine Learning
-Senior Generative AI & Enterprise Data Scientist,CARBYNETECH,Senior,Data Scientist,Deep Learning
-Senior Generative AI & Enterprise Data Scientist,CARBYNETECH,Senior,Data Scientist,GenAI / LLMs
-Senior Generative AI & Enterprise Data Scientist,CARBYNETECH,Senior,Data Scientist,SAP
-"Senior Data Science & Analytics Lead - AI, ML & MLOps",Maaden,Lead/Manager+,Data Scientist,Machine Learning
-Data Scientist: Predictive Modeling & Insights Leader,Müller`s Solutions,Mid,Data Scientist,Statistics
-"Data Scientist I — Fraud, AML & Generative AI",Mozn,Mid,Data Scientist,Python
-"Data Scientist I — Fraud, AML & Generative AI",Mozn,Mid,Data Scientist,SQL
-"Data Scientist I — Fraud, AML & Generative AI",Mozn,Mid,Data Scientist,Machine Learning
-"Data Scientist I — Fraud, AML & Generative AI",Mozn,Mid,Data Scientist,GenAI / LLMs
-Data scientist (women's first team),Al-Qadsiah Saudi Club نادي القادسية السعودي,Mid,Data Scientist,Power BI
-Data scientist (women's first team),Al-Qadsiah Saudi Club نادي القادسية السعودي,Mid,Data Scientist,Tableau
-Data scientist (women's first team),Al-Qadsiah Saudi Club نادي القادسية السعودي,Mid,Data Scientist,Data Governance
-Data scientist (women's first team),Al-Qadsiah Saudi Club نادي القادسية السعودي,Mid,Data Scientist,Communication
-Data scientist (women's first team),Al-Qadsiah Saudi Club نادي القادسية السعودي,Mid,Data Scientist,Dashboards/Reporting
-Data Scientist at Evolvice,Evolvice,Senior,Data Scientist,Python
-Data Scientist at Evolvice,Evolvice,Senior,Data Scientist,SQL
-Data Scientist at Evolvice,Evolvice,Senior,Data Scientist,Power BI
-Data Scientist at Evolvice,Evolvice,Senior,Data Scientist,Machine Learning
-Data Scientist at Evolvice,Evolvice,Senior,Data Scientist,Deep Learning
-Data Scientist at Evolvice,Evolvice,Senior,Data Scientist,GenAI / LLMs
-Data Scientist at Evolvice,Evolvice,Senior,Data Scientist,Statistics
-Data Scientist at Evolvice,Evolvice,Senior,Data Scientist,Communication
-Data Scientist at Evolvice,Evolvice,Senior,Data Scientist,Dashboards/Reporting
-Senior Data Scientist - Fraud & AML Intelligence,Ummahjobs,Senior,Data Scientist,Python
-Senior Data Scientist - Fraud & AML Intelligence,Ummahjobs,Senior,Data Scientist,SQL
-Risk Data Scientist,PayTech Nexus Ltd,Mid,Data Scientist,Python
-Risk Data Scientist,PayTech Nexus Ltd,Mid,Data Scientist,SQL
-Risk Data Scientist,PayTech Nexus Ltd,Mid,Data Scientist,R
-Risk Data Scientist,PayTech Nexus Ltd,Mid,Data Scientist,Machine Learning
-Risk Data Scientist,PayTech Nexus Ltd,Mid,Data Scientist,Statistics
-Risk Data Scientist,PayTech Nexus Ltd,Mid,Data Scientist,SAS
-Risk Data Scientist,PayTech Nexus Ltd,Mid,Data Scientist,Data Governance
-Risk Data Scientist,PayTech Nexus Ltd,Mid,Data Scientist,Communication
-Risk Data Scientist,PayTech Nexus Ltd,Mid,Data Scientist,Dashboards/Reporting
+Strategic Data Scientist & Advanced Analytics Consultant,Datamatics Technologies,Mid,Data Scientist,Machine Learning
+Data Science Intern: Build AI Insights & Models,Mozn,Junior/Entry,Data Scientist,Python
+Data Scientist - AI/ML for Predictive Insights (On-Site),Evolvice,Mid,Data Scientist,Power BI
+Data Scientist - AI/ML for Predictive Insights (On-Site),Evolvice,Mid,Data Scientist,Machine Learning
+Data Scientist - AI/ML for Predictive Insights (On-Site),Evolvice,Mid,Data Scientist,Deep Learning
+Data Scientist - AI/ML for Predictive Insights (On-Site),Evolvice,Mid,Data Scientist,GenAI / LLMs
+Data Scientist - AI/ML for Predictive Insights (On-Site),Evolvice,Mid,Data Scientist,Dashboards/Reporting
+Actuarial Data Scientist - Credit Risk & ML; Hybrid,HALA,Mid,Data Scientist,Machine Learning
+Compliance Data Scientist - AML/KYC & Risk (Banking),Devsinc,Senior,Data Scientist,Python
+Compliance Data Scientist - AML/KYC & Risk (Banking),Devsinc,Senior,Data Scientist,SQL
+Compliance Data Scientist - AML/KYC & Risk (Banking),Devsinc,Senior,Data Scientist,Machine Learning
+Data Engineering Specialist,Saudi Aramco,Lead/Manager+,Data Engineer,Python
+Data Engineering Specialist,Saudi Aramco,Lead/Manager+,Data Engineer,SQL
+Data Engineering Specialist,Saudi Aramco,Lead/Manager+,Data Engineer,Scala
+Data Engineering Specialist,Saudi Aramco,Lead/Manager+,Data Engineer,Java
+Data Engineering Specialist,Saudi Aramco,Lead/Manager+,Data Engineer,AWS
+Data Engineering Specialist,Saudi Aramco,Lead/Manager+,Data Engineer,Azure
+Data Engineering Specialist,Saudi Aramco,Lead/Manager+,Data Engineer,GCP
+Data Engineering Specialist,Saudi Aramco,Lead/Manager+,Data Engineer,Spark
+Data Engineering Specialist,Saudi Aramco,Lead/Manager+,Data Engineer,Airflow
+Data Engineering Specialist,Saudi Aramco,Lead/Manager+,Data Engineer,Kafka
+Data Engineering Specialist,Saudi Aramco,Lead/Manager+,Data Engineer,ETL
+Data Engineering Specialist,Saudi Aramco,Lead/Manager+,Data Engineer,Data Warehousing
+Data Engineering Specialist,Saudi Aramco,Lead/Manager+,Data Engineer,Hadoop
+Data Engineering Specialist,Saudi Aramco,Lead/Manager+,Data Engineer,Machine Learning
+Data Engineering Specialist,Saudi Aramco,Lead/Manager+,Data Engineer,Git
+Data Engineering Specialist,Saudi Aramco,Lead/Manager+,Data Engineer,Agile
+Data Engineering Specialist,Saudi Aramco,Lead/Manager+,Data Engineer,Data Governance
+Data Engineering Specialist,Saudi Aramco,Lead/Manager+,Data Engineer,Communication
+Data Engineering Specialist,Saudi Aramco,Lead/Manager+,Data Engineer,Dashboards/Reporting
+OT/IT Data Engineering Lead: Scalable Pipelines,Maaden,Lead/Manager+,Data Engineer,ETL
+OT/IT Data Engineering Lead: Scalable Pipelines,Maaden,Lead/Manager+,Data Engineer,Machine Learning
+Data Engineer Python,Müller's Solutions,Senior,Data Engineer,Python
+Data Engineer Python,Müller's Solutions,Senior,Data Engineer,SQL
+Data Engineer Python,Müller's Solutions,Senior,Data Engineer,GCP
+Data Engineer Python,Müller's Solutions,Senior,Data Engineer,Spark
+Data Engineer Python,Müller's Solutions,Senior,Data Engineer,Airflow
+Data Engineer Python,Müller's Solutions,Senior,Data Engineer,ETL
+Data Engineer Python,Müller's Solutions,Senior,Data Engineer,Machine Learning
+Data Engineer Python,Müller's Solutions,Senior,Data Engineer,Git
+Data Engineer Python,Müller's Solutions,Senior,Data Engineer,Docker/K8s
+Data Engineer Python,Müller's Solutions,Senior,Data Engineer,Data Governance
+Senior Data Engineer (Data & AI),Sifi Uniteh,Senior,Data Scientist,SQL
+Senior Data Engineer (Data & AI),Sifi Uniteh,Senior,Data Scientist,GCP
+Senior Data Engineer (Data & AI),Sifi Uniteh,Senior,Data Scientist,dbt
+Senior Data Engineer (Data & AI),Sifi Uniteh,Senior,Data Scientist,Data Warehousing
+Senior Data Engineer (Data & AI),Sifi Uniteh,Senior,Data Scientist,Machine Learning
+Senior Data Engineer (Data & AI),Sifi Uniteh,Senior,Data Scientist,Data Governance
+Senior Data Engineer (Data & AI),Sifi Uniteh,Senior,Data Scientist,Dashboards/Reporting
+Data Engineer: Talend ETL & Data Pipelines,Müller`s Solutions,Mid,Data Engineer,ETL
+Senior Data Engineer – Data Quality & Observability,JobScroller,Senior,Data Engineer,Data Governance
+Data Engineer,Walaa Cooperative Insurance Co.,Mid,Data Engineer,Python
+Data Engineer,Walaa Cooperative Insurance Co.,Mid,Data Engineer,SQL
+Data Engineer,Walaa Cooperative Insurance Co.,Mid,Data Engineer,R
+Data Engineer,Walaa Cooperative Insurance Co.,Mid,Data Engineer,Scala
+Data Engineer,Walaa Cooperative Insurance Co.,Mid,Data Engineer,Java
+Data Engineer,Walaa Cooperative Insurance Co.,Mid,Data Engineer,AWS
+Data Engineer,Walaa Cooperative Insurance Co.,Mid,Data Engineer,Azure
+Data Engineer,Walaa Cooperative Insurance Co.,Mid,Data Engineer,GCP
+Data Engineer,Walaa Cooperative Insurance Co.,Mid,Data Engineer,Spark
+Data Engineer,Walaa Cooperative Insurance Co.,Mid,Data Engineer,Kafka
+Data Engineer,Walaa Cooperative Insurance Co.,Mid,Data Engineer,ETL
+Data Engineer,Walaa Cooperative Insurance Co.,Mid,Data Engineer,Data Warehousing
+Data Engineer,Walaa Cooperative Insurance Co.,Mid,Data Engineer,Hadoop
+Data Engineer,Walaa Cooperative Insurance Co.,Mid,Data Engineer,Machine Learning
+Data Engineer,Walaa Cooperative Insurance Co.,Mid,Data Engineer,Agile
+Data Engineer,Walaa Cooperative Insurance Co.,Mid,Data Engineer,Data Governance
+Data Engineer,Walaa Cooperative Insurance Co.,Mid,Data Engineer,Dashboards/Reporting
 "Associate, Data Engineer",Starlinks Global,Mid,Data Engineer,Python
 "Associate, Data Engineer",Starlinks Global,Mid,Data Engineer,SQL
 "Associate, Data Engineer",Starlinks Global,Mid,Data Engineer,AWS
@@ -240,127 +344,56 @@ Risk Data Scientist,PayTech Nexus Ltd,Mid,Data Scientist,Dashboards/Reporting
 "Associate, Data Engineer",Starlinks Global,Mid,Data Engineer,Data Governance
 "Associate, Data Engineer",Starlinks Global,Mid,Data Engineer,Communication
 "Associate, Data Engineer",Starlinks Global,Mid,Data Engineer,Dashboards/Reporting
-Data Science & Analytics Engineer - Onsite Riyadh,Datamatics-Global-Services-Ltd,Lead/Manager+,Data Scientist,Statistics
-Data Science & Analytics Engineer - Onsite Riyadh,Datamatics-Global-Services-Ltd,Lead/Manager+,Data Scientist,Communication
-"Junior Geospatial Data Engineer (Hybrid, Riyadh)",HudHud Maps,Junior/Entry,Data Engineer,Python
-"Junior Geospatial Data Engineer (Hybrid, Riyadh)",HudHud Maps,Junior/Entry,Data Engineer,AWS
-"Junior Geospatial Data Engineer (Hybrid, Riyadh)",HudHud Maps,Junior/Entry,Data Engineer,Azure
-"Junior Geospatial Data Engineer (Hybrid, Riyadh)",HudHud Maps,Junior/Entry,Data Engineer,GCP
-"Junior Geospatial Data Engineer (Hybrid, Riyadh)",HudHud Maps,Junior/Entry,Data Engineer,Airflow
-"Junior Geospatial Data Engineer (Hybrid, Riyadh)",HudHud Maps,Junior/Entry,Data Engineer,ETL
-"Junior Geospatial Data Engineer (Hybrid, Riyadh)",HudHud Maps,Junior/Entry,Data Engineer,PostgreSQL
-Data Engineer,Qode,Mid,Data Engineer,Python
-Data Engineer,Qode,Mid,Data Engineer,SQL
-Data Engineer,Qode,Mid,Data Engineer,GCP
-Data Engineer,Qode,Mid,Data Engineer,Spark
-Data Engineer,Qode,Mid,Data Engineer,Airflow
-Data Engineer,Qode,Mid,Data Engineer,ETL
-Data Engineer,Qode,Mid,Data Engineer,Machine Learning
-Data Engineer,Qode,Mid,Data Engineer,Docker/K8s
-Data Engineer,Qode,Mid,Data Engineer,SAP
-Data Engineer,Qode,Mid,Data Engineer,Data Governance
-Senior Data Engineer (Data & AI),Sifi Uniteh,Senior,Data Scientist,SQL
-Senior Data Engineer (Data & AI),Sifi Uniteh,Senior,Data Scientist,GCP
-Senior Data Engineer (Data & AI),Sifi Uniteh,Senior,Data Scientist,dbt
-Senior Data Engineer (Data & AI),Sifi Uniteh,Senior,Data Scientist,Data Warehousing
-Senior Data Engineer (Data & AI),Sifi Uniteh,Senior,Data Scientist,Machine Learning
-Senior Data Engineer (Data & AI),Sifi Uniteh,Senior,Data Scientist,Data Governance
-Senior Data Engineer (Data & AI),Sifi Uniteh,Senior,Data Scientist,Dashboards/Reporting
-Data Engineer Talend (Saudi National) - 4-Month Engagement,mena consultant,Mid,Data Engineer,ETL
-Data Engineer Talend (Saudi National) - 4-Month Engagement,mena consultant,Mid,Data Engineer,Data Governance
-Data Engineer Talend (Saudi National) - 4-Month Engagement,mena consultant,Mid,Data Engineer,Arabic
-Data Engineer Talend (Saudi National) - 4-Month Engagement,mena consultant,Mid,Data Engineer,Dashboards/Reporting
-Senior FinTech Data Engineer — ML-Ready Pipelines,Wayfindi,Senior,Data Engineer,Python
-Senior FinTech Data Engineer — ML-Ready Pipelines,Wayfindi,Senior,Data Engineer,SQL
-Senior FinTech Data Engineer — ML-Ready Pipelines,Wayfindi,Senior,Data Engineer,Airflow
-Senior FinTech Data Engineer — ML-Ready Pipelines,Wayfindi,Senior,Data Engineer,Machine Learning
-Data Engineer,Müller`s Solutions,Senior,Data Engineer,Python
-Data Engineer,Müller`s Solutions,Senior,Data Engineer,SQL
-Data Engineer,Müller`s Solutions,Senior,Data Engineer,GCP
-Data Engineer,Müller`s Solutions,Senior,Data Engineer,Spark
-Data Engineer,Müller`s Solutions,Senior,Data Engineer,Airflow
-Data Engineer,Müller`s Solutions,Senior,Data Engineer,ETL
-Data Engineer,Müller`s Solutions,Senior,Data Engineer,Machine Learning
-Data Engineer,Müller`s Solutions,Senior,Data Engineer,Git
-Data Engineer,Müller`s Solutions,Senior,Data Engineer,Docker/K8s
-Data Engineer,Müller`s Solutions,Senior,Data Engineer,Data Governance
-"Senior Data Engineer - Remote, AI-Powered, ESOP",Jobgether,Senior,Data Scientist,Communication
-Data Engineer: Talend ETL & Data Pipelines,Müller`s Solutions,Mid,Data Engineer,ETL
-Data Engineer (Saudi) Office: Saudi (Office),Wayfindi,Mid,Data Engineer,Machine Learning
-Data Engineer (Saudi) Office: Saudi (Office),Wayfindi,Mid,Data Engineer,Data Governance
-Data Engineer (Saudi) Office: Saudi (Office),Wayfindi,Mid,Data Engineer,Communication
-Senior Data Engineer (Data & AI),SiFi,Senior,Data Scientist,SQL
-Senior Data Engineer (Data & AI),SiFi,Senior,Data Scientist,GCP
-Senior Data Engineer (Data & AI),SiFi,Senior,Data Scientist,dbt
-Senior Data Engineer (Data & AI),SiFi,Senior,Data Scientist,Data Warehousing
-Senior Data Engineer (Data & AI),SiFi,Senior,Data Scientist,Machine Learning
-Senior Data Engineer (Data & AI),SiFi,Senior,Data Scientist,Data Governance
-Senior Data Engineer (Data & AI),SiFi,Senior,Data Scientist,Dashboards/Reporting
-Urgently Required – SAP Master Data Engineer (Saudi Arabia) in Jubail,حسابات عالم العضلات,Senior,Data Engineer,SAP
-Urgently Required – SAP Master Data Engineer (Saudi Arabia) in Jubail,حسابات عالم العضلات,Senior,Data Engineer,Data Governance
-AI / ML Engineer - 0 12+ Years Experience,Datamatics Global Service,Lead/Manager+,Data Scientist,Python
-AI / ML Engineer - 0 12+ Years Experience,Datamatics Global Service,Lead/Manager+,Data Scientist,AWS
-AI / ML Engineer - 0 12+ Years Experience,Datamatics Global Service,Lead/Manager+,Data Scientist,Azure
-AI / ML Engineer - 0 12+ Years Experience,Datamatics Global Service,Lead/Manager+,Data Scientist,GCP
-AI / ML Engineer - 0 12+ Years Experience,Datamatics Global Service,Lead/Manager+,Data Scientist,Spark
-AI / ML Engineer - 0 12+ Years Experience,Datamatics Global Service,Lead/Manager+,Data Scientist,Machine Learning
-AI / ML Engineer - 0 12+ Years Experience,Datamatics Global Service,Lead/Manager+,Data Scientist,Deep Learning
-AI / ML Engineer - 0 12+ Years Experience,Datamatics Global Service,Lead/Manager+,Data Scientist,NLP
-AI / ML Engineer - 0 12+ Years Experience,Datamatics Global Service,Lead/Manager+,Data Scientist,GenAI / LLMs
-AI / ML Engineer - 0 12+ Years Experience,Datamatics Global Service,Lead/Manager+,Data Scientist,Statistics
-AI / ML Engineer - 0 12+ Years Experience,Datamatics Global Service,Lead/Manager+,Data Scientist,Git
-AI / ML Engineer - 0 12+ Years Experience,Datamatics Global Service,Lead/Manager+,Data Scientist,Agile
-AI / ML Engineer - 0 12+ Years Experience,Datamatics Global Service,Lead/Manager+,Data Scientist,Communication
-AI / ML Engineer - 0 12+ Years Experience,Datamatics Global Service,Lead/Manager+,Data Scientist,Dashboards/Reporting
-4261- Data Engineer,Innovaccer Analytics,Senior,Data Engineer,Python
-4261- Data Engineer,Innovaccer Analytics,Senior,Data Engineer,SQL
-4261- Data Engineer,Innovaccer Analytics,Senior,Data Engineer,AWS
-4261- Data Engineer,Innovaccer Analytics,Senior,Data Engineer,Azure
-4261- Data Engineer,Innovaccer Analytics,Senior,Data Engineer,GCP
-4261- Data Engineer,Innovaccer Analytics,Senior,Data Engineer,Spark
-4261- Data Engineer,Innovaccer Analytics,Senior,Data Engineer,Airflow
-4261- Data Engineer,Innovaccer Analytics,Senior,Data Engineer,Kafka
-4261- Data Engineer,Innovaccer Analytics,Senior,Data Engineer,dbt
-4261- Data Engineer,Innovaccer Analytics,Senior,Data Engineer,ETL
-4261- Data Engineer,Innovaccer Analytics,Senior,Data Engineer,Data Warehousing
-4261- Data Engineer,Innovaccer Analytics,Senior,Data Engineer,Agile
-4261- Data Engineer,Innovaccer Analytics,Senior,Data Engineer,Data Governance
-4261- Data Engineer,Innovaccer Analytics,Senior,Data Engineer,Arabic
-4261- Data Engineer,Innovaccer Analytics,Senior,Data Engineer,Communication
-4261- Data Engineer,Innovaccer Analytics,Senior,Data Engineer,Dashboards/Reporting
+Senior Data Engineer: Build Scalable ETL Pipelines & Cloud,73 Strings,Senior,Data Engineer,Airflow
+Senior Data Engineer: Build Scalable ETL Pipelines & Cloud,73 Strings,Senior,Data Engineer,dbt
+Senior Data Engineer: Build Scalable ETL Pipelines & Cloud,73 Strings,Senior,Data Engineer,ETL
+Senior Structured Data Engineering and Reporting Manager,Mace,Lead/Manager+,Data Engineer,Power BI
+Senior Structured Data Engineering and Reporting Manager,Mace,Lead/Manager+,Data Engineer,Excel
+Senior Structured Data Engineering and Reporting Manager,Mace,Lead/Manager+,Data Engineer,Dashboards/Reporting
+Data Engineering & Warehousing Specialist,Datamatics-Global-Services-Ltd,Lead/Manager+,Data Engineer,ETL
+Data Engineering & Warehousing Specialist,Datamatics-Global-Services-Ltd,Lead/Manager+,Data Engineer,Data Warehousing
 "Data engineer (python) — onsite, ksa: pipelines & analytics",ITHR Technologies Consulting LLC,Senior,Data Engineer,Python
 "Data engineer (python) — onsite, ksa: pipelines & analytics",ITHR Technologies Consulting LLC,Senior,Data Engineer,SQL
 "Data engineer (python) — onsite, ksa: pipelines & analytics",ITHR Technologies Consulting LLC,Senior,Data Engineer,Airflow
 "Data engineer (python) — onsite, ksa: pipelines & analytics",ITHR Technologies Consulting LLC,Senior,Data Engineer,ETL
-Data Engineer (Python),Qode,Senior,Data Engineer,Python
-Data Engineer (Python),Qode,Senior,Data Engineer,SQL
-Data Engineer (Python),Qode,Senior,Data Engineer,GCP
-Data Engineer (Python),Qode,Senior,Data Engineer,Spark
-Data Engineer (Python),Qode,Senior,Data Engineer,Airflow
-Data Engineer (Python),Qode,Senior,Data Engineer,ETL
-Data Engineer (Python),Qode,Senior,Data Engineer,Machine Learning
-Data Engineer (Python),Qode,Senior,Data Engineer,Docker/K8s
-Data Engineer (Python),Qode,Senior,Data Engineer,SAP
-Data Engineer (Python),Qode,Senior,Data Engineer,Data Governance
-Data Platform Engineer for AI-Driven Analytics,Datamatics Technologies,Lead/Manager+,Data Scientist,SQL
-Data Platform Engineer for AI-Driven Analytics,Datamatics Technologies,Lead/Manager+,Data Scientist,Data Warehousing
-Data Platform Engineer for AI-Driven Analytics,Datamatics Technologies,Lead/Manager+,Data Scientist,Dashboards/Reporting
-AI Data Platform Engineer: End-to-End Pipelines,Mirai Arabian International Company Limited,Lead/Manager+,Data Scientist,Python
-AI Data Platform Engineer: End-to-End Pipelines,Mirai Arabian International Company Limited,Lead/Manager+,Data Scientist,SQL
-AI Data Platform Engineer: End-to-End Pipelines,Mirai Arabian International Company Limited,Lead/Manager+,Data Scientist,AWS
-AI Data Platform Engineer: End-to-End Pipelines,Mirai Arabian International Company Limited,Lead/Manager+,Data Scientist,GenAI / LLMs
-AI Data Platform Engineer: End-to-End Pipelines,Mirai Arabian International Company Limited,Lead/Manager+,Data Scientist,Data Governance
-Senior Data Engineer,Mirai Arabian International Company Limited,Senior,Data Engineer,Python
-Senior Data Engineer,Mirai Arabian International Company Limited,Senior,Data Engineer,SQL
-Senior Data Engineer,Mirai Arabian International Company Limited,Senior,Data Engineer,AWS
-Senior Data Engineer,Mirai Arabian International Company Limited,Senior,Data Engineer,Spark
-Senior Data Engineer,Mirai Arabian International Company Limited,Senior,Data Engineer,dbt
-Senior Data Engineer,Mirai Arabian International Company Limited,Senior,Data Engineer,ETL
-Senior Data Engineer,Mirai Arabian International Company Limited,Senior,Data Engineer,Machine Learning
-Senior Data Engineer,Mirai Arabian International Company Limited,Senior,Data Engineer,GenAI / LLMs
-Senior Data Engineer,Mirai Arabian International Company Limited,Senior,Data Engineer,Dashboards/Reporting
 "Cloudera Data Engineer (On-Site) - Saudi National, Jeddah",MENA Consultant,Mid,Data Engineer,ETL
 "Cloudera Data Engineer (On-Site) - Saudi National, Jeddah",MENA Consultant,Mid,Data Engineer,Arabic
+Junior Data Engineer,HudHud Maps,Junior/Entry,Data Engineer,Python
+Junior Data Engineer,HudHud Maps,Junior/Entry,Data Engineer,AWS
+Junior Data Engineer,HudHud Maps,Junior/Entry,Data Engineer,Azure
+Junior Data Engineer,HudHud Maps,Junior/Entry,Data Engineer,GCP
+Junior Data Engineer,HudHud Maps,Junior/Entry,Data Engineer,Spark
+Junior Data Engineer,HudHud Maps,Junior/Entry,Data Engineer,Airflow
+Junior Data Engineer,HudHud Maps,Junior/Entry,Data Engineer,ETL
+Junior Data Engineer,HudHud Maps,Junior/Entry,Data Engineer,PostgreSQL
+Junior Data Engineer,HudHud Maps,Junior/Entry,Data Engineer,Data Governance
+Junior Data Engineer,HudHud Maps,Junior/Entry,Data Engineer,Communication
+Data Engineer (Saudi) Office: Saudi (Office),Wayfindi,Mid,Data Engineer,Machine Learning
+Data Engineer (Saudi) Office: Saudi (Office),Wayfindi,Mid,Data Engineer,Data Governance
+Data Engineer (Saudi) Office: Saudi (Office),Wayfindi,Mid,Data Engineer,Communication
+Principal Data Engineer — OT/IT Pipelines & Data Governance,Ma'aden Gold and Base Metals (MGBM),Lead/Manager+,Data Engineer,ETL
+Principal Data Engineer — OT/IT Pipelines & Data Governance,Ma'aden Gold and Base Metals (MGBM),Lead/Manager+,Data Engineer,Machine Learning
+Principal Data Engineer — OT/IT Pipelines & Data Governance,Ma'aden Gold and Base Metals (MGBM),Lead/Manager+,Data Engineer,Data Governance
+Principal OT Data Engineering & ETL Lead,Maaden Saudi Arabian Mining Company,Lead/Manager+,Data Engineer,ETL
+Principal OT Data Engineering & ETL Lead,Maaden Saudi Arabian Mining Company,Lead/Manager+,Data Engineer,Communication
+"Principal Specialist, Engineering and ETL (OT)",Ma'aden Legal Employer,Lead/Manager+,Other Data Role,ETL
+"Principal Specialist, Engineering and ETL (OT)",Ma'aden Legal Employer,Lead/Manager+,Other Data Role,Data Governance
+"Principal Specialist, Engineering and ETL (OT)",Ma'aden Legal Employer,Lead/Manager+,Other Data Role,Communication
+Senior FinTech Data Engineer — ML-Ready Pipelines,Wayfindi,Senior,Data Engineer,Python
+Senior FinTech Data Engineer — ML-Ready Pipelines,Wayfindi,Senior,Data Engineer,SQL
+Senior FinTech Data Engineer — ML-Ready Pipelines,Wayfindi,Senior,Data Engineer,Airflow
+Senior FinTech Data Engineer — ML-Ready Pipelines,Wayfindi,Senior,Data Engineer,Machine Learning
+Urgently Required – SAP Master Data Engineer (Saudi Arabia) in Jubail,حسابات عالم العضلات,Senior,Data Engineer,SAP
+Urgently Required – SAP Master Data Engineer (Saudi Arabia) in Jubail,حسابات عالم العضلات,Senior,Data Engineer,Data Governance
+Data and ML Platform Engineer,Red Sea Gateway Terminal,Senior,Other Data Role,Python
+Data and ML Platform Engineer,Red Sea Gateway Terminal,Senior,Other Data Role,SQL
+Data and ML Platform Engineer,Red Sea Gateway Terminal,Senior,Other Data Role,Power BI
+Data and ML Platform Engineer,Red Sea Gateway Terminal,Senior,Other Data Role,Azure
+Data and ML Platform Engineer,Red Sea Gateway Terminal,Senior,Other Data Role,ETL
+Data and ML Platform Engineer,Red Sea Gateway Terminal,Senior,Other Data Role,Data Warehousing
+Data and ML Platform Engineer,Red Sea Gateway Terminal,Senior,Other Data Role,Machine Learning
+Data and ML Platform Engineer,Red Sea Gateway Terminal,Senior,Other Data Role,Data Governance
+Data and ML Platform Engineer,Red Sea Gateway Terminal,Senior,Other Data Role,Dashboards/Reporting
 Onsite Data Engineer for AI Pipelines & Cloud Platforms,Euro Staffs,Mid,Data Scientist,Python
 Onsite Data Engineer for AI Pipelines & Cloud Platforms,Euro Staffs,Mid,Data Scientist,SQL
 Onsite Data Engineer for AI Pipelines & Cloud Platforms,Euro Staffs,Mid,Data Scientist,AWS
@@ -369,44 +402,52 @@ Onsite Data Engineer for AI Pipelines & Cloud Platforms,Euro Staffs,Mid,Data Sci
 Onsite Data Engineer for AI Pipelines & Cloud Platforms,Euro Staffs,Mid,Data Scientist,ETL
 Onsite Data Engineer for AI Pipelines & Cloud Platforms,Euro Staffs,Mid,Data Scientist,Data Warehousing
 Onsite Data Engineer for AI Pipelines & Cloud Platforms,Euro Staffs,Mid,Data Scientist,Data Governance
-"Principal Specialist, Engineering and ETL (OT)",Ma'aden Legal Employer,Lead/Manager+,Other Data Role,ETL
-"Principal Specialist, Engineering and ETL (OT)",Ma'aden Legal Employer,Lead/Manager+,Other Data Role,Data Governance
-"Principal Specialist, Engineering and ETL (OT)",Ma'aden Legal Employer,Lead/Manager+,Other Data Role,Communication
-Talend Data Engineer - On-Site | 4-Month Project,MENA Consultant,Mid,Data Engineer,ETL
-Talend Data Engineer - On-Site | 4-Month Project,MENA Consultant,Mid,Data Engineer,Data Governance
-"Data Engineer (Python) — Inventory Data Backbone (Onsite, KSA)",Qode,Senior,Data Engineer,Python
-"Data Engineer (Python) — Inventory Data Backbone (Onsite, KSA)",Qode,Senior,Data Engineer,SQL
-"Data Engineer (Python) — Inventory Data Backbone (Onsite, KSA)",Qode,Senior,Data Engineer,ETL
-Residential Analytics & Insights Manager,Red Sea Global,Lead/Manager+,Data Analyst,Excel
-Residential Analytics & Insights Manager,Red Sea Global,Lead/Manager+,Data Analyst,Communication
-Residential Analytics & Insights Manager,Red Sea Global,Lead/Manager+,Data Analyst,Dashboards/Reporting
-Business Analyst (Data Warehouse & Analytics),Deepsource Technologies,Senior,Data Analyst,SQL
-Business Analyst (Data Warehouse & Analytics),Deepsource Technologies,Senior,Data Analyst,Spark
-Business Analyst (Data Warehouse & Analytics),Deepsource Technologies,Senior,Data Analyst,ETL
-Business Analyst (Data Warehouse & Analytics),Deepsource Technologies,Senior,Data Analyst,Data Warehousing
-Business Analyst (Data Warehouse & Analytics),Deepsource Technologies,Senior,Data Analyst,Hadoop
-Business Analyst (Data Warehouse & Analytics),Deepsource Technologies,Senior,Data Analyst,Agile
-Business Analyst (Data Warehouse & Analytics),Deepsource Technologies,Senior,Data Analyst,Data Governance
-Business Analyst (Data Warehouse & Analytics),Deepsource Technologies,Senior,Data Analyst,Communication
-Business Analyst (Data Warehouse & Analytics),Deepsource Technologies,Senior,Data Analyst,Dashboards/Reporting
+Analytics Engineer Data Analytics Engineer,eDesign SA,Mid,Data Analyst,Power BI
+Analytics Engineer Data Analytics Engineer,eDesign SA,Mid,Data Analyst,Tableau
+Analytics Engineer Data Analytics Engineer,eDesign SA,Mid,Data Analyst,Looker
+Analytics Engineer Data Analytics Engineer,eDesign SA,Mid,Data Analyst,AWS
+Analytics Engineer Data Analytics Engineer,eDesign SA,Mid,Data Analyst,Azure
+Analytics Engineer Data Analytics Engineer,eDesign SA,Mid,Data Analyst,GCP
+Analytics Engineer Data Analytics Engineer,eDesign SA,Mid,Data Analyst,Spark
+Analytics Engineer Data Analytics Engineer,eDesign SA,Mid,Data Analyst,dbt
+Analytics Engineer Data Analytics Engineer,eDesign SA,Mid,Data Analyst,ETL
+Analytics Engineer Data Analytics Engineer,eDesign SA,Mid,Data Analyst,Data Warehousing
+Analytics Engineer Data Analytics Engineer,eDesign SA,Mid,Data Analyst,SQL Server
+Analytics Engineer Data Analytics Engineer,eDesign SA,Mid,Data Analyst,Communication
+Analytics Engineer Data Analytics Engineer,eDesign SA,Mid,Data Analyst,Dashboards/Reporting
 "Senior Specialist, IT Business Intelligence II",Ma'aden Legal Employer,Senior,BI Developer,Azure
 "Senior Specialist, IT Business Intelligence II",Ma'aden Legal Employer,Senior,BI Developer,Machine Learning
 "Senior Specialist, IT Business Intelligence II",Ma'aden Legal Employer,Senior,BI Developer,GenAI / LLMs
 "Senior Specialist, IT Business Intelligence II",Ma'aden Legal Employer,Senior,BI Developer,Oracle
 "Senior Specialist, IT Business Intelligence II",Ma'aden Legal Employer,Senior,BI Developer,Docker/K8s
 "Senior Specialist, IT Business Intelligence II",Ma'aden Legal Employer,Senior,BI Developer,Communication
-Business Analytics & Insights Specialist,Alfanar,Mid,Data Analyst,Statistics
-Business Analytics & Insights Specialist,Alfanar,Mid,Data Analyst,Dashboards/Reporting
-Manager – Data & Business Intelligence,Foreground Consultancy,Lead/Manager+,BI Developer,SQL
-Manager – Data & Business Intelligence,Foreground Consultancy,Lead/Manager+,BI Developer,Power BI
-Manager – Data & Business Intelligence,Foreground Consultancy,Lead/Manager+,BI Developer,Tableau
-Manager – Data & Business Intelligence,Foreground Consultancy,Lead/Manager+,BI Developer,Azure
-Manager – Data & Business Intelligence,Foreground Consultancy,Lead/Manager+,BI Developer,Dashboards/Reporting
-BI Analyst: Drive AI-Enabled Enterprise Insights,foregroundllc,Mid,Data Scientist,SQL
-BI Analyst: Drive AI-Enabled Enterprise Insights,foregroundllc,Mid,Data Scientist,Power BI
-BI Analyst: Drive AI-Enabled Enterprise Insights,foregroundllc,Mid,Data Scientist,Tableau
-BI Analyst: Drive AI-Enabled Enterprise Insights,foregroundllc,Mid,Data Scientist,Communication
-BI Analyst: Drive AI-Enabled Enterprise Insights,foregroundllc,Mid,Data Scientist,Dashboards/Reporting
+Business Analyst (Data Warehouse And Analytics),DeepSource Technologies,Mid,Data Analyst,SQL
+Business Analyst (Data Warehouse And Analytics),DeepSource Technologies,Mid,Data Analyst,Spark
+Business Analyst (Data Warehouse And Analytics),DeepSource Technologies,Mid,Data Analyst,ETL
+Business Analyst (Data Warehouse And Analytics),DeepSource Technologies,Mid,Data Analyst,Data Warehousing
+Business Analyst (Data Warehouse And Analytics),DeepSource Technologies,Mid,Data Analyst,Hadoop
+Business Analyst (Data Warehouse And Analytics),DeepSource Technologies,Mid,Data Analyst,Agile
+Business Analyst (Data Warehouse And Analytics),DeepSource Technologies,Mid,Data Analyst,Data Governance
+Business Analyst (Data Warehouse And Analytics),DeepSource Technologies,Mid,Data Analyst,Communication
+Business Analyst (Data Warehouse And Analytics),DeepSource Technologies,Mid,Data Analyst,Dashboards/Reporting
+Business Intelligence & Data Specialist,Saudi Business Machines,Senior,BI Developer,SQL
+Business Intelligence & Data Specialist,Saudi Business Machines,Senior,BI Developer,Statistics
+Business Intelligence & Data Specialist,Saudi Business Machines,Senior,BI Developer,Communication
+Business Intelligence & Data Specialist,Saudi Business Machines,Senior,BI Developer,Dashboards/Reporting
+Manager Data & Business Intelligence,Foreground,Lead/Manager+,BI Developer,SQL
+Manager Data & Business Intelligence,Foreground,Lead/Manager+,BI Developer,Power BI
+Manager Data & Business Intelligence,Foreground,Lead/Manager+,BI Developer,Tableau
+Manager Data & Business Intelligence,Foreground,Lead/Manager+,BI Developer,Azure
+Manager Data & Business Intelligence,Foreground,Lead/Manager+,BI Developer,Dashboards/Reporting
+Business Intelligence Senior Specialist - Shared Services,Propel Consult,Senior,BI Developer,SQL
+Business Intelligence Senior Specialist - Shared Services,Propel Consult,Senior,BI Developer,Power BI
+Business Intelligence Senior Specialist - Shared Services,Propel Consult,Senior,BI Developer,Tableau
+Business Intelligence Senior Specialist - Shared Services,Propel Consult,Senior,BI Developer,Qlik
+Business Intelligence Senior Specialist - Shared Services,Propel Consult,Senior,BI Developer,Data Warehousing
+Business Intelligence Senior Specialist - Shared Services,Propel Consult,Senior,BI Developer,SQL Server
+Business Intelligence Senior Specialist - Shared Services,Propel Consult,Senior,BI Developer,Communication
+Business Intelligence Senior Specialist - Shared Services,Propel Consult,Senior,BI Developer,Dashboards/Reporting
+Market Intelligence and Business Origination,MAWREF Logistics Solutions,Lead/Manager+,Other Data Role,Communication
 Business Intelligence,TechnohandZ Global,Mid,BI Developer,SQL
 Business Intelligence,TechnohandZ Global,Mid,BI Developer,Power BI
 Business Intelligence,TechnohandZ Global,Mid,BI Developer,Tableau
@@ -414,43 +455,19 @@ Business Intelligence,TechnohandZ Global,Mid,BI Developer,Qlik
 Business Intelligence,TechnohandZ Global,Mid,BI Developer,Data Warehousing
 Business Intelligence,TechnohandZ Global,Mid,BI Developer,SQL Server
 Business Intelligence,TechnohandZ Global,Mid,BI Developer,Dashboards/Reporting
-Enterprise Data & BI Manager for AI Insights,Foreground LLC,Lead/Manager+,Data Scientist,SQL
-Enterprise Data & BI Manager for AI Insights,Foreground LLC,Lead/Manager+,Data Scientist,Power BI
-Enterprise Data & BI Manager for AI Insights,Foreground LLC,Lead/Manager+,Data Scientist,Dashboards/Reporting
-Power BI Developer,Müller`s Solutions,Senior,BI Developer,Python
-Power BI Developer,Müller`s Solutions,Senior,BI Developer,SQL
-Power BI Developer,Müller`s Solutions,Senior,BI Developer,R
-Power BI Developer,Müller`s Solutions,Senior,BI Developer,Power BI
-Power BI Developer,Müller`s Solutions,Senior,BI Developer,Azure
-Power BI Developer,Müller`s Solutions,Senior,BI Developer,GCP
-Power BI Developer,Müller`s Solutions,Senior,BI Developer,Data Warehousing
-Power BI Developer,Müller`s Solutions,Senior,BI Developer,Data Governance
-Power BI Developer,Müller`s Solutions,Senior,BI Developer,Communication
-Power BI Developer,Müller`s Solutions,Senior,BI Developer,Dashboards/Reporting
-Business Intelligence & Data Specialist,Saudi Business Machines,Senior,BI Developer,SQL
-Business Intelligence & Data Specialist,Saudi Business Machines,Senior,BI Developer,Statistics
-Business Intelligence & Data Specialist,Saudi Business Machines,Senior,BI Developer,Communication
-Business Intelligence & Data Specialist,Saudi Business Machines,Senior,BI Developer,Dashboards/Reporting
-Senior Business Analytics & Growth Strategist,Maaden Saudi Arabian Mining Company,Senior,Data Analyst,Dashboards/Reporting
-Business Intelligence Specialist (SAP),EGIS,Lead/Manager+,BI Developer,SAP
-Business Intelligence Specialist (SAP),EGIS,Lead/Manager+,BI Developer,Communication
-Business Intelligence Specialist (SAP),EGIS,Lead/Manager+,BI Developer,Dashboards/Reporting
-Business Analyst: BI Dashboards & Transformation,Arla Foods,Mid,Data Analyst,Power BI
-Business Analyst: BI Dashboards & Transformation,Arla Foods,Mid,Data Analyst,Dashboards/Reporting
-Saudi Data Analytics Engineer: Power BI & ETL,Raqmiyat,Mid,BI Developer,SQL
-Saudi Data Analytics Engineer: Power BI & ETL,Raqmiyat,Mid,BI Developer,Power BI
-Saudi Data Analytics Engineer: Power BI & ETL,Raqmiyat,Mid,BI Developer,ETL
-Technology Data Intelligence Specialist,Emdad By Elm,Senior,Other Data Role,SQL
-Technology Data Intelligence Specialist,Emdad By Elm,Senior,Other Data Role,Power BI
-Technology Data Intelligence Specialist,Emdad By Elm,Senior,Other Data Role,Tableau
-Technology Data Intelligence Specialist,Emdad By Elm,Senior,Other Data Role,Data Warehousing
-Technology Data Intelligence Specialist,Emdad By Elm,Senior,Other Data Role,Machine Learning
-Technology Data Intelligence Specialist,Emdad By Elm,Senior,Other Data Role,Communication
-Technology Data Intelligence Specialist,Emdad By Elm,Senior,Other Data Role,Dashboards/Reporting
-Strategic BI Analyst for AI-Driven Insights,Client of Foreground,Mid,Data Scientist,SQL
-Strategic BI Analyst for AI-Driven Insights,Client of Foreground,Mid,Data Scientist,Power BI
-Strategic BI Analyst for AI-Driven Insights,Client of Foreground,Mid,Data Scientist,Data Governance
-Strategic BI Analyst for AI-Driven Insights,Client of Foreground,Mid,Data Scientist,Dashboards/Reporting
+Senior Specialist Business Intelligence,Qiddiya Investment Company,Senior,BI Developer,Power BI
+Senior Specialist Business Intelligence,Qiddiya Investment Company,Senior,BI Developer,Communication
+Senior Specialist Business Intelligence,Qiddiya Investment Company,Senior,BI Developer,Dashboards/Reporting
+Senior BI Developer (Power BI & Sigma Computing),MBUZZ,Senior,BI Developer,SQL
+Senior BI Developer (Power BI & Sigma Computing),MBUZZ,Senior,BI Developer,Power BI
+Senior BI Developer (Power BI & Sigma Computing),MBUZZ,Senior,BI Developer,dbt
+Senior BI Developer (Power BI & Sigma Computing),MBUZZ,Senior,BI Developer,Data Warehousing
+Senior BI Developer (Power BI & Sigma Computing),MBUZZ,Senior,BI Developer,Statistics
+Senior BI Developer (Power BI & Sigma Computing),MBUZZ,Senior,BI Developer,Communication
+Senior BI Developer (Power BI & Sigma Computing),MBUZZ,Senior,BI Developer,Dashboards/Reporting
+Residential Analytics & Insights Manager,Red Sea Global,Lead/Manager+,Data Analyst,Excel
+Residential Analytics & Insights Manager,Red Sea Global,Lead/Manager+,Data Analyst,Communication
+Residential Analytics & Insights Manager,Red Sea Global,Lead/Manager+,Data Analyst,Dashboards/Reporting
 BI and Data Analytics Manager,Starlinks Global,Lead/Manager+,Data Analyst,SQL
 BI and Data Analytics Manager,Starlinks Global,Lead/Manager+,Data Analyst,Power BI
 BI and Data Analytics Manager,Starlinks Global,Lead/Manager+,Data Analyst,Tableau
@@ -463,47 +480,104 @@ BI and Data Analytics Manager,Starlinks Global,Lead/Manager+,Data Analyst,Data W
 BI and Data Analytics Manager,Starlinks Global,Lead/Manager+,Data Analyst,Data Governance
 BI and Data Analytics Manager,Starlinks Global,Lead/Manager+,Data Analyst,Communication
 BI and Data Analytics Manager,Starlinks Global,Lead/Manager+,Data Analyst,Dashboards/Reporting
-Business Intelligence Consultant,emdad by elm,Senior,BI Developer,ETL
-Business Intelligence Consultant,emdad by elm,Senior,BI Developer,Data Governance
-Business Intelligence Consultant,emdad by elm,Senior,BI Developer,Dashboards/Reporting
-BI Engineer,IT People Gulf,Senior,Other Data Role,Python
-BI Engineer,IT People Gulf,Senior,Other Data Role,SQL
-BI Engineer,IT People Gulf,Senior,Other Data Role,Power BI
-BI Engineer,IT People Gulf,Senior,Other Data Role,Tableau
-BI Engineer,IT People Gulf,Senior,Other Data Role,Looker
-BI Engineer,IT People Gulf,Senior,Other Data Role,Qlik
-BI Engineer,IT People Gulf,Senior,Other Data Role,AWS
-BI Engineer,IT People Gulf,Senior,Other Data Role,Azure
-BI Engineer,IT People Gulf,Senior,Other Data Role,GCP
-BI Engineer,IT People Gulf,Senior,Other Data Role,ETL
-BI Engineer,IT People Gulf,Senior,Other Data Role,Data Warehousing
-BI Engineer,IT People Gulf,Senior,Other Data Role,Statistics
-BI Engineer,IT People Gulf,Senior,Other Data Role,Data Governance
-BI Engineer,IT People Gulf,Senior,Other Data Role,Communication
-BI Engineer,IT People Gulf,Senior,Other Data Role,Dashboards/Reporting
-BI Developer; Saudi National,Raqmiyat,Mid,BI Developer,SQL
-BI Developer; Saudi National,Raqmiyat,Mid,BI Developer,Power BI
-BI Developer; Saudi National,Raqmiyat,Mid,BI Developer,Excel
-BI Developer; Saudi National,Raqmiyat,Mid,BI Developer,Communication
-BI Developer; Saudi National,Raqmiyat,Mid,BI Developer,Dashboards/Reporting
-Full Stack Machine Learning Engineer,Qualcomm,Senior,Data Scientist,Python
-Full Stack Machine Learning Engineer,Qualcomm,Senior,Data Scientist,Java
-Full Stack Machine Learning Engineer,Qualcomm,Senior,Data Scientist,Machine Learning
-Full Stack Machine Learning Engineer,Qualcomm,Senior,Data Scientist,GenAI / LLMs
-Full Stack Machine Learning Engineer,Qualcomm,Senior,Data Scientist,Docker/K8s
-Full Stack Machine Learning Engineer,Qualcomm,Senior,Data Scientist,Dashboards/Reporting
+MEA Data Center Market Intelligence Analyst,SwiftCruit,Mid,Data Analyst,Arabic
+MEA Data Center Market Intelligence Analyst,SwiftCruit,Mid,Data Analyst,Communication
+Senior Data & Analytics Business Analyst,datascience,Senior,Data Analyst,Data Governance
+Remote Data Analyst — Power BI & Dashboards,ASSYSTEM,Mid,BI Developer,Python
+Remote Data Analyst — Power BI & Dashboards,ASSYSTEM,Mid,BI Developer,SQL
+Remote Data Analyst — Power BI & Dashboards,ASSYSTEM,Mid,BI Developer,Power BI
+Remote Data Analyst — Power BI & Dashboards,ASSYSTEM,Mid,BI Developer,Excel
+Remote Data Analyst — Power BI & Dashboards,ASSYSTEM,Mid,BI Developer,Dashboards/Reporting
+Healthcare BI & Data Insights Specialist,Saudi Business Machines,Senior,Other Data Role,SQL
+Healthcare BI & Data Insights Specialist,Saudi Business Machines,Senior,Other Data Role,Communication
+Saudi Data Analytics Engineer: Power BI & ETL,Raqmiyat,Mid,BI Developer,SQL
+Saudi Data Analytics Engineer: Power BI & ETL,Raqmiyat,Mid,BI Developer,Power BI
+Saudi Data Analytics Engineer: Power BI & ETL,Raqmiyat,Mid,BI Developer,ETL
+Business Analyst: BI Dashboards & Transformation,Arla Foods,Mid,Data Analyst,Power BI
+Business Analyst: BI Dashboards & Transformation,Arla Foods,Mid,Data Analyst,Dashboards/Reporting
+BI Manager,Starlinks Global,Lead/Manager+,Other Data Role,Power BI
+BI Manager,Starlinks Global,Lead/Manager+,Other Data Role,Azure
+BI Manager,Starlinks Global,Lead/Manager+,Other Data Role,Data Governance
+BI Manager,Starlinks Global,Lead/Manager+,Other Data Role,Communication
+BI Manager,Starlinks Global,Lead/Manager+,Other Data Role,Dashboards/Reporting
+Business Analyst | Sales & Service | Riyadh | KSA Nationals,Deloitte,Mid,Data Analyst,Excel
+Business Analyst | Sales & Service | Riyadh | KSA Nationals,Deloitte,Mid,Data Analyst,Arabic
+Senior AI BI Engineer – Azure GenAI & LLMs,Ma'aden Aluminium Company (MAC),Senior,Data Scientist,Azure
+Senior AI BI Engineer – Azure GenAI & LLMs,Ma'aden Aluminium Company (MAC),Senior,Data Scientist,GenAI / LLMs
+Data Architect,Dammam Analytics Group,Senior,Other Data Role,SQL
+Data Architect,Dammam Analytics Group,Senior,Other Data Role,AWS
+Data Architect,Dammam Analytics Group,Senior,Other Data Role,Azure
+Data Architect,Dammam Analytics Group,Senior,Other Data Role,GCP
+Data Architect,Dammam Analytics Group,Senior,Other Data Role,ETL
+Data Architect,Dammam Analytics Group,Senior,Other Data Role,Data Warehousing
+Data Architect,Dammam Analytics Group,Senior,Other Data Role,NoSQL
+Data Architect,Dammam Analytics Group,Senior,Other Data Role,Data Governance
+Data Architect,Dammam Analytics Group,Senior,Other Data Role,Communication
+Machine Learning Engineeir,Company,Mid,Data Scientist,Machine Learning
+Machine Learning Engineeir,Company,Mid,Data Scientist,Deep Learning
+"Full Stack Machine Learning Engineer (Datacentre AI Engineering) - Riyadh, KSA",Qualcomm,Senior,Data Scientist,Python
+"Full Stack Machine Learning Engineer (Datacentre AI Engineering) - Riyadh, KSA",Qualcomm,Senior,Data Scientist,Java
+"Full Stack Machine Learning Engineer (Datacentre AI Engineering) - Riyadh, KSA",Qualcomm,Senior,Data Scientist,Machine Learning
+"Full Stack Machine Learning Engineer (Datacentre AI Engineering) - Riyadh, KSA",Qualcomm,Senior,Data Scientist,GenAI / LLMs
+"Full Stack Machine Learning Engineer (Datacentre AI Engineering) - Riyadh, KSA",Qualcomm,Senior,Data Scientist,Docker/K8s
+"Full Stack Machine Learning Engineer (Datacentre AI Engineering) - Riyadh, KSA",Qualcomm,Senior,Data Scientist,Dashboards/Reporting
+ML Scientist - Financial Forecasting & MLOps,Silver Edge Arabia,Mid,Other Data Role,Machine Learning
+ML Scientist - Financial Forecasting & MLOps,Silver Edge Arabia,Mid,Other Data Role,Dashboards/Reporting
+ML Scientist – Financial Forecasting & MLOps,Silver Edge Arabia,Mid,Other Data Role,Machine Learning
+ML Scientist – Financial Forecasting & MLOps,Silver Edge Arabia,Mid,Other Data Role,Dashboards/Reporting
 "Cloud Machine Learning Engineer - Riyadh, KSA","Qualcomm Technologies, Inc",Mid,Data Scientist,Python
 "Cloud Machine Learning Engineer - Riyadh, KSA","Qualcomm Technologies, Inc",Mid,Data Scientist,Java
 "Cloud Machine Learning Engineer - Riyadh, KSA","Qualcomm Technologies, Inc",Mid,Data Scientist,Machine Learning
 "Cloud Machine Learning Engineer - Riyadh, KSA","Qualcomm Technologies, Inc",Mid,Data Scientist,Deep Learning
 "Cloud Machine Learning Engineer - Riyadh, KSA","Qualcomm Technologies, Inc",Mid,Data Scientist,NLP
 "Cloud Machine Learning Engineer - Riyadh, KSA","Qualcomm Technologies, Inc",Mid,Data Scientist,GenAI / LLMs
-Scientific Machine Learning to Simulate Complex Physics Processes in Porous Materials,KAUST,Senior,Data Scientist,Python
-Scientific Machine Learning to Simulate Complex Physics Processes in Porous Materials,KAUST,Senior,Data Scientist,Machine Learning
-Scientific Machine Learning to Simulate Complex Physics Processes in Porous Materials,KAUST,Senior,Data Scientist,Deep Learning
-Staff ML Applications Engineer — Deep Learning Innovator,Nutanix,Mid,Other Data Role,Python
-Staff ML Applications Engineer — Deep Learning Innovator,Nutanix,Mid,Other Data Role,Machine Learning
-Staff ML Applications Engineer — Deep Learning Innovator,Nutanix,Mid,Other Data Role,Deep Learning
+Full-Stack ML Engineer for AI Inference & Orchestration,Qualcomm,Mid,Data Scientist,Machine Learning
+Full-Stack ML Engineer for AI Inference & Orchestration,Qualcomm,Mid,Data Scientist,GenAI / LLMs
+Full-Stack ML Engineer for AI Inference & Orchestration,Qualcomm,Mid,Data Scientist,Docker/K8s
+Full-Stack ML Engineer for AI Inference & Orchestration,Qualcomm,Mid,Data Scientist,Dashboards/Reporting
+AI / ML Engineer -  0–12+ Years Experience,Datamatics Technologies,Lead/Manager+,Data Scientist,Python
+AI / ML Engineer -  0–12+ Years Experience,Datamatics Technologies,Lead/Manager+,Data Scientist,AWS
+AI / ML Engineer -  0–12+ Years Experience,Datamatics Technologies,Lead/Manager+,Data Scientist,Azure
+AI / ML Engineer -  0–12+ Years Experience,Datamatics Technologies,Lead/Manager+,Data Scientist,GCP
+AI / ML Engineer -  0–12+ Years Experience,Datamatics Technologies,Lead/Manager+,Data Scientist,Spark
+AI / ML Engineer -  0–12+ Years Experience,Datamatics Technologies,Lead/Manager+,Data Scientist,Machine Learning
+AI / ML Engineer -  0–12+ Years Experience,Datamatics Technologies,Lead/Manager+,Data Scientist,Deep Learning
+AI / ML Engineer -  0–12+ Years Experience,Datamatics Technologies,Lead/Manager+,Data Scientist,NLP
+AI / ML Engineer -  0–12+ Years Experience,Datamatics Technologies,Lead/Manager+,Data Scientist,GenAI / LLMs
+AI / ML Engineer -  0–12+ Years Experience,Datamatics Technologies,Lead/Manager+,Data Scientist,Statistics
+AI / ML Engineer -  0–12+ Years Experience,Datamatics Technologies,Lead/Manager+,Data Scientist,Git
+AI / ML Engineer -  0–12+ Years Experience,Datamatics Technologies,Lead/Manager+,Data Scientist,Agile
+AI / ML Engineer -  0–12+ Years Experience,Datamatics Technologies,Lead/Manager+,Data Scientist,Communication
+AI / ML Engineer -  0–12+ Years Experience,Datamatics Technologies,Lead/Manager+,Data Scientist,Dashboards/Reporting
+Cloud ML Engineer: AI/DL Optimization & Scale,"Qualcomm Technologies, Inc",Lead/Manager+,Data Scientist,Python
+Cloud ML Engineer: AI/DL Optimization & Scale,"Qualcomm Technologies, Inc",Lead/Manager+,Data Scientist,Machine Learning
+Cloud ML Engineer: AI/DL Optimization & Scale,"Qualcomm Technologies, Inc",Lead/Manager+,Data Scientist,Deep Learning
+Applied AI Engineer: End-to-End ML & MLOps,Remal Ventures,Mid,Data Scientist,Python
+Applied AI Engineer: End-to-End ML & MLOps,Remal Ventures,Mid,Data Scientist,Machine Learning
+Computational Research Expert (AI Specialist),Aramco,Senior,Data Scientist,Python
+Computational Research Expert (AI Specialist),Aramco,Senior,Data Scientist,Machine Learning
+Computational Research Expert (AI Specialist),Aramco,Senior,Data Scientist,Deep Learning
+Computational Research Expert (AI Specialist),Aramco,Senior,Data Scientist,Statistics
+Computational Research Expert (AI Specialist),Aramco,Senior,Data Scientist,Communication
+GCP AI Engineer,flint-international,Senior,Data Scientist,Python
+GCP AI Engineer,flint-international,Senior,Data Scientist,SQL
+GCP AI Engineer,flint-international,Senior,Data Scientist,GCP
+GCP AI Engineer,flint-international,Senior,Data Scientist,Airflow
+GCP AI Engineer,flint-international,Senior,Data Scientist,ETL
+GCP AI Engineer,flint-international,Senior,Data Scientist,Machine Learning
+GCP AI Engineer,flint-international,Senior,Data Scientist,Deep Learning
+GCP AI Engineer,flint-international,Senior,Data Scientist,NLP
+GCP AI Engineer,flint-international,Senior,Data Scientist,GenAI / LLMs
+GCP AI Engineer,flint-international,Senior,Data Scientist,Oracle
+GCP AI Engineer,flint-international,Senior,Data Scientist,Git
+GCP AI Engineer,flint-international,Senior,Data Scientist,Docker/K8s
+GCP AI Engineer,flint-international,Senior,Data Scientist,Arabic
+"Machine Learning Engineer, level; Datacentre AI Engineering KSA",Nutanix,Lead/Manager+,Data Scientist,Python
+"Machine Learning Engineer, level; Datacentre AI Engineering KSA",Nutanix,Lead/Manager+,Data Scientist,Java
+"Machine Learning Engineer, level; Datacentre AI Engineering KSA",Nutanix,Lead/Manager+,Data Scientist,Machine Learning
+"Machine Learning Engineer, level; Datacentre AI Engineering KSA",Nutanix,Lead/Manager+,Data Scientist,Deep Learning
+"Machine Learning Engineer, level; Datacentre AI Engineering KSA",Nutanix,Lead/Manager+,Data Scientist,NLP
+"Machine Learning Engineer, level; Datacentre AI Engineering KSA",Nutanix,Lead/Manager+,Data Scientist,GenAI / LLMs
 AI Infrastructure Engineer,Eram Talent,Senior,Data Scientist,Python
 AI Infrastructure Engineer,Eram Talent,Senior,Data Scientist,SQL
 AI Infrastructure Engineer,Eram Talent,Senior,Data Scientist,GCP
@@ -512,43 +586,10 @@ AI Infrastructure Engineer,Eram Talent,Senior,Data Scientist,GenAI / LLMs
 AI Infrastructure Engineer,Eram Talent,Senior,Data Scientist,Git
 AI Infrastructure Engineer,Eram Talent,Senior,Data Scientist,Docker/K8s
 AI Infrastructure Engineer,Eram Talent,Senior,Data Scientist,Dashboards/Reporting
-"Cloud Machine Learning Engineer - Riyadh, KSA",Qualcomm,Mid,Data Scientist,Python
-"Cloud Machine Learning Engineer - Riyadh, KSA",Qualcomm,Mid,Data Scientist,Java
-"Cloud Machine Learning Engineer - Riyadh, KSA",Qualcomm,Mid,Data Scientist,Machine Learning
-"Cloud Machine Learning Engineer - Riyadh, KSA",Qualcomm,Mid,Data Scientist,Deep Learning
-"Cloud Machine Learning Engineer - Riyadh, KSA",Qualcomm,Mid,Data Scientist,NLP
-"Cloud Machine Learning Engineer - Riyadh, KSA",Qualcomm,Mid,Data Scientist,GenAI / LLMs
-Agentic AI Engineer,شركة عبد العزيز الزيد للاستشارات المالية | Abdulaziz AlZaid Financial Consulting Company,Mid,Data Scientist,Python
-Agentic AI Engineer,شركة عبد العزيز الزيد للاستشارات المالية | Abdulaziz AlZaid Financial Consulting Company,Mid,Data Scientist,Azure
-Agentic AI Engineer,شركة عبد العزيز الزيد للاستشارات المالية | Abdulaziz AlZaid Financial Consulting Company,Mid,Data Scientist,GenAI / LLMs
-Agentic AI Engineer,شركة عبد العزيز الزيد للاستشارات المالية | Abdulaziz AlZaid Financial Consulting Company,Mid,Data Scientist,Git
-Agentic AI Engineer,شركة عبد العزيز الزيد للاستشارات المالية | Abdulaziz AlZaid Financial Consulting Company,Mid,Data Scientist,Dashboards/Reporting
-Cloud ML Engineer: AI/DL Optimization & Scale,"Qualcomm Technologies, Inc",Lead/Manager+,Data Scientist,Python
-Cloud ML Engineer: AI/DL Optimization & Scale,"Qualcomm Technologies, Inc",Lead/Manager+,Data Scientist,Machine Learning
-Cloud ML Engineer: AI/DL Optimization & Scale,"Qualcomm Technologies, Inc",Lead/Manager+,Data Scientist,Deep Learning
-Machine Learning Operations (MLOps) Engineer (GCP),TMC Middle East,Senior,Data Scientist,Python
-Machine Learning Operations (MLOps) Engineer (GCP),TMC Middle East,Senior,Data Scientist,GCP
-Machine Learning Operations (MLOps) Engineer (GCP),TMC Middle East,Senior,Data Scientist,Machine Learning
-Machine Learning Operations (MLOps) Engineer (GCP),TMC Middle East,Senior,Data Scientist,Git
-Machine Learning Operations (MLOps) Engineer (GCP),TMC Middle East,Senior,Data Scientist,Docker/K8s
-AI Solution Engineer,Master-Works,Mid,Data Scientist,Python
-AI Solution Engineer,Master-Works,Mid,Data Scientist,Machine Learning
-AI Solution Engineer,Master-Works,Mid,Data Scientist,GenAI / LLMs
-AI Solution Engineer,Master-Works,Mid,Data Scientist,PostgreSQL
-AI Solution Engineer,Master-Works,Mid,Data Scientist,Docker/K8s
-AI Solution Engineer,Master-Works,Mid,Data Scientist,Arabic
-AI Solution Engineer,Master-Works,Mid,Data Scientist,Communication
-Applied AI Engineer: End-to-End ML & MLOps,Remal Ventures,Mid,Data Scientist,Python
-Applied AI Engineer: End-to-End ML & MLOps,Remal Ventures,Mid,Data Scientist,Machine Learning
-"Model Accuracy and AI Performance, Senior Staff Engineer, Riyadh, KSA",Qualcomm,Senior,Data Scientist,Python
-"Model Accuracy and AI Performance, Senior Staff Engineer, Riyadh, KSA",Qualcomm,Senior,Data Scientist,Machine Learning
-"Model Accuracy and AI Performance, Senior Staff Engineer, Riyadh, KSA",Qualcomm,Senior,Data Scientist,Deep Learning
-"Model Accuracy and AI Performance, Senior Staff Engineer, Riyadh, KSA",Qualcomm,Senior,Data Scientist,GenAI / LLMs
-"Model Accuracy and AI Performance, Senior Staff Engineer, Riyadh, KSA",Qualcomm,Senior,Data Scientist,Git
-"Senior genai & ml engineer — llms, rag, mlops",Maaden,Senior,Data Scientist,Python
-"Senior genai & ml engineer — llms, rag, mlops",Maaden,Senior,Data Scientist,SQL
-"Senior genai & ml engineer — llms, rag, mlops",Maaden,Senior,Data Scientist,Machine Learning
-"Senior genai & ml engineer — llms, rag, mlops",Maaden,Senior,Data Scientist,GenAI / LLMs
+Industrial AI Expert Saudi Arabia,Aramco Digital,Lead/Manager+,Data Scientist,ETL
+Industrial AI Expert Saudi Arabia,Aramco Digital,Lead/Manager+,Data Scientist,Machine Learning
+Industrial AI Expert Saudi Arabia,Aramco Digital,Lead/Manager+,Data Scientist,Communication
+AI/ML Engineer: Build & Deploy Scalable ML Pipelines,Datamatics Technologies,Mid,Data Scientist,Machine Learning
 "Senior/Staff Machine Learning Engineer - Bidding (Bangkok based, relocation provided)",Agoda,Senior,Data Scientist,Python
 "Senior/Staff Machine Learning Engineer - Bidding (Bangkok based, relocation provided)",Agoda,Senior,Data Scientist,SQL
 "Senior/Staff Machine Learning Engineer - Bidding (Bangkok based, relocation provided)",Agoda,Senior,Data Scientist,Scala
@@ -559,38 +600,34 @@ Applied AI Engineer: End-to-End ML & MLOps,Remal Ventures,Mid,Data Scientist,Mac
 "Senior/Staff Machine Learning Engineer - Bidding (Bangkok based, relocation provided)",Agoda,Senior,Data Scientist,Machine Learning
 "Senior/Staff Machine Learning Engineer - Bidding (Bangkok based, relocation provided)",Agoda,Senior,Data Scientist,Statistics
 "Senior/Staff Machine Learning Engineer - Bidding (Bangkok based, relocation provided)",Agoda,Senior,Data Scientist,Agile
-Machine Learning Engineer - Build Scalable AI Solutions,Euro Staffs,Mid,Data Scientist,Python
-Machine Learning Engineer - Build Scalable AI Solutions,Euro Staffs,Mid,Data Scientist,Machine Learning
-Machine Learning Engineer - Build Scalable AI Solutions,Euro Staffs,Mid,Data Scientist,Deep Learning
-Senior AI Engineer (Arabic Speaker),Datamatics Technologies,Senior,Data Scientist,AWS
-Senior AI Engineer (Arabic Speaker),Datamatics Technologies,Senior,Data Scientist,Azure
-Senior AI Engineer (Arabic Speaker),Datamatics Technologies,Senior,Data Scientist,GCP
-Senior AI Engineer (Arabic Speaker),Datamatics Technologies,Senior,Data Scientist,Airflow
-Senior AI Engineer (Arabic Speaker),Datamatics Technologies,Senior,Data Scientist,ETL
-Senior AI Engineer (Arabic Speaker),Datamatics Technologies,Senior,Data Scientist,Machine Learning
-Senior AI Engineer (Arabic Speaker),Datamatics Technologies,Senior,Data Scientist,Deep Learning
-Senior AI Engineer (Arabic Speaker),Datamatics Technologies,Senior,Data Scientist,NLP
-Senior AI Engineer (Arabic Speaker),Datamatics Technologies,Senior,Data Scientist,GenAI / LLMs
-Senior AI Engineer (Arabic Speaker),Datamatics Technologies,Senior,Data Scientist,Oracle
-Senior AI Engineer (Arabic Speaker),Datamatics Technologies,Senior,Data Scientist,Git
-Senior AI Engineer (Arabic Speaker),Datamatics Technologies,Senior,Data Scientist,Docker/K8s
-Senior AI Engineer (Arabic Speaker),Datamatics Technologies,Senior,Data Scientist,Data Governance
-Senior AI Engineer (Arabic Speaker),Datamatics Technologies,Senior,Data Scientist,Arabic
-Senior AI Engineer (Arabic Speaker),Datamatics Technologies,Senior,Data Scientist,Communication
-Senior AI Engineer (Arabic Speaker),Datamatics Technologies,Senior,Data Scientist,Dashboards/Reporting
-Cloud AI Engineer — Deep Learning & Scale-Out Inference,Qualcomm,Mid,Data Scientist,Python
-Cloud AI Engineer — Deep Learning & Scale-Out Inference,Qualcomm,Mid,Data Scientist,Machine Learning
-Cloud AI Engineer — Deep Learning & Scale-Out Inference,Qualcomm,Mid,Data Scientist,Deep Learning
-Senior SRE Engineer (MLOps) - AI,Salla,Senior,Data Scientist,Python
-Senior SRE Engineer (MLOps) - AI,Salla,Senior,Data Scientist,Kafka
-Senior SRE Engineer (MLOps) - AI,Salla,Senior,Data Scientist,Machine Learning
-Senior SRE Engineer (MLOps) - AI,Salla,Senior,Data Scientist,GenAI / LLMs
-Senior SRE Engineer (MLOps) - AI,Salla,Senior,Data Scientist,Docker/K8s
-Senior SRE Engineer (MLOps) - AI,Salla,Senior,Data Scientist,Dashboards/Reporting
+AI Engineer,CodeNinja,Mid,Data Scientist,Python
+AI Engineer,CodeNinja,Mid,Data Scientist,GenAI / LLMs
+AI Engineer,CodeNinja,Mid,Data Scientist,SAS
+AI Engineer,CodeNinja,Mid,Data Scientist,Dashboards/Reporting
 Senior AI Engineer: End-to-End ML on GCP,Total-TECH Co,Senior,Data Scientist,Python
 Senior AI Engineer: End-to-End ML on GCP,Total-TECH Co,Senior,Data Scientist,GCP
 Senior AI Engineer: End-to-End ML on GCP,Total-TECH Co,Senior,Data Scientist,Machine Learning
 Senior AI Engineer: End-to-End ML on GCP,Total-TECH Co,Senior,Data Scientist,Deep Learning
+"Lead Engineer, AI & Machine Learning II",International Women in Mining,Lead/Manager+,Data Scientist,Machine Learning
+"Lead Engineer, AI & Machine Learning II",International Women in Mining,Lead/Manager+,Data Scientist,Data Governance
+"Lead Engineer, AI & Machine Learning II",International Women in Mining,Lead/Manager+,Data Scientist,Communication
+Senior Data Scientist — End-to-End AI​/ML Solutions Lead,datascience,Lead/Manager+,Data Scientist,Machine Learning
+Senior Data Scientist — End-to-End AI​/ML Solutions Lead,datascience,Lead/Manager+,Data Scientist,Statistics
+AI Developer,Al-Watania Information Systems,Mid,Data Scientist,Python
+AI Developer,Al-Watania Information Systems,Mid,Data Scientist,SQL
+AI Developer,Al-Watania Information Systems,Mid,Data Scientist,Machine Learning
+AI Developer,Al-Watania Information Systems,Mid,Data Scientist,Deep Learning
+AI Developer,Al-Watania Information Systems,Mid,Data Scientist,GenAI / LLMs
+AI Developer,Al-Watania Information Systems,Mid,Data Scientist,Docker/K8s
+Senior Staff AI Engineer - Model Accuracy & NPU Optimization,Qualcomm,Senior,Data Scientist,Machine Learning
+Staff ML Applications Engineer — Deep Learning Innovator,Nutanix,Mid,Other Data Role,Python
+Staff ML Applications Engineer — Deep Learning Innovator,Nutanix,Mid,Other Data Role,Machine Learning
+Staff ML Applications Engineer — Deep Learning Innovator,Nutanix,Mid,Other Data Role,Deep Learning
+Senior Full Stack Engineer | Saudi National,UMATR,Senior,Other Data Role,Python
+Senior Full Stack Engineer | Saudi National,UMATR,Senior,Other Data Role,PostgreSQL
+Senior Full Stack Engineer | Saudi National,UMATR,Senior,Other Data Role,Docker/K8s
+Senior Full Stack Engineer | Saudi National,UMATR,Senior,Other Data Role,Communication
+Senior Full Stack Engineer | Saudi National,UMATR,Senior,Other Data Role,Dashboards/Reporting
 MLOps Architect / Engineer (0–12+ Years Experience),Datamatics Technologies,Lead/Manager+,Other Data Role,Python
 MLOps Architect / Engineer (0–12+ Years Experience),Datamatics Technologies,Lead/Manager+,Other Data Role,AWS
 MLOps Architect / Engineer (0–12+ Years Experience),Datamatics Technologies,Lead/Manager+,Other Data Role,Azure
@@ -602,40 +639,15 @@ MLOps Architect / Engineer (0–12+ Years Experience),Datamatics Technologies,Le
 MLOps Architect / Engineer (0–12+ Years Experience),Datamatics Technologies,Lead/Manager+,Other Data Role,Docker/K8s
 MLOps Architect / Engineer (0–12+ Years Experience),Datamatics Technologies,Lead/Manager+,Other Data Role,Agile
 MLOps Architect / Engineer (0–12+ Years Experience),Datamatics Technologies,Lead/Manager+,Other Data Role,Dashboards/Reporting
-"Remote AWS AI Engineer V - ML/LLM, SageMaker & RAG",Hudson Manpower,Mid,Data Scientist,Python
-"Remote AWS AI Engineer V - ML/LLM, SageMaker & RAG",Hudson Manpower,Mid,Data Scientist,AWS
-"Remote AWS AI Engineer V - ML/LLM, SageMaker & RAG",Hudson Manpower,Mid,Data Scientist,Machine Learning
-"Remote AWS AI Engineer V - ML/LLM, SageMaker & RAG",Hudson Manpower,Mid,Data Scientist,GenAI / LLMs
-Senior AI Engineer — LLM Post-Training & Alignment,P2P,Senior,Data Scientist,Machine Learning
-Senior AI Engineer — LLM Post-Training & Alignment,P2P,Senior,Data Scientist,GenAI / LLMs
-Senior Data Scientist – Recommendation Systems,Salla,Senior,Data Scientist,GCP
-Senior Data Scientist – Recommendation Systems,Salla,Senior,Data Scientist,Spark
-Senior Data Scientist – Recommendation Systems,Salla,Senior,Data Scientist,Kafka
-Senior Data Scientist – Recommendation Systems,Salla,Senior,Data Scientist,Machine Learning
-Senior Data Scientist – Recommendation Systems,Salla,Senior,Data Scientist,Deep Learning
-AI & ML Strategy Lead Engineer,International Women in Mining,Lead/Manager+,Data Scientist,Machine Learning
-Cloud ML Engineer – AI Inference & DL Tools,Qualcomm,Lead/Manager+,Data Scientist,Python
-Cloud ML Engineer – AI Inference & DL Tools,Qualcomm,Lead/Manager+,Data Scientist,Machine Learning
-Cloud ML Engineer – AI Inference & DL Tools,Qualcomm,Lead/Manager+,Data Scientist,Deep Learning
-Senior AI Engineer (Arabic Speaker) at Datamatics Global Services Ltd,Datamatics Global Services Ltd,Senior,Data Scientist,Python
-Senior AI Engineer (Arabic Speaker) at Datamatics Global Services Ltd,Datamatics Global Services Ltd,Senior,Data Scientist,SQL
-Senior AI Engineer (Arabic Speaker) at Datamatics Global Services Ltd,Datamatics Global Services Ltd,Senior,Data Scientist,Java
-Senior AI Engineer (Arabic Speaker) at Datamatics Global Services Ltd,Datamatics Global Services Ltd,Senior,Data Scientist,AWS
-Senior AI Engineer (Arabic Speaker) at Datamatics Global Services Ltd,Datamatics Global Services Ltd,Senior,Data Scientist,Azure
-Senior AI Engineer (Arabic Speaker) at Datamatics Global Services Ltd,Datamatics Global Services Ltd,Senior,Data Scientist,GCP
-Senior AI Engineer (Arabic Speaker) at Datamatics Global Services Ltd,Datamatics Global Services Ltd,Senior,Data Scientist,Spark
-Senior AI Engineer (Arabic Speaker) at Datamatics Global Services Ltd,Datamatics Global Services Ltd,Senior,Data Scientist,Airflow
-Senior AI Engineer (Arabic Speaker) at Datamatics Global Services Ltd,Datamatics Global Services Ltd,Senior,Data Scientist,ETL
-Senior AI Engineer (Arabic Speaker) at Datamatics Global Services Ltd,Datamatics Global Services Ltd,Senior,Data Scientist,Machine Learning
-Senior AI Engineer (Arabic Speaker) at Datamatics Global Services Ltd,Datamatics Global Services Ltd,Senior,Data Scientist,Deep Learning
-Senior AI Engineer (Arabic Speaker) at Datamatics Global Services Ltd,Datamatics Global Services Ltd,Senior,Data Scientist,NLP
-Senior AI Engineer (Arabic Speaker) at Datamatics Global Services Ltd,Datamatics Global Services Ltd,Senior,Data Scientist,GenAI / LLMs
-Senior AI Engineer (Arabic Speaker) at Datamatics Global Services Ltd,Datamatics Global Services Ltd,Senior,Data Scientist,Oracle
-Senior AI Engineer (Arabic Speaker) at Datamatics Global Services Ltd,Datamatics Global Services Ltd,Senior,Data Scientist,Git
-Senior AI Engineer (Arabic Speaker) at Datamatics Global Services Ltd,Datamatics Global Services Ltd,Senior,Data Scientist,Docker/K8s
-Senior AI Engineer (Arabic Speaker) at Datamatics Global Services Ltd,Datamatics Global Services Ltd,Senior,Data Scientist,Data Governance
-Senior AI Engineer (Arabic Speaker) at Datamatics Global Services Ltd,Datamatics Global Services Ltd,Senior,Data Scientist,Arabic
-Senior AI Engineer (Arabic Speaker) at Datamatics Global Services Ltd,Datamatics Global Services Ltd,Senior,Data Scientist,Communication
-Senior AI Engineer (Arabic Speaker) at Datamatics Global Services Ltd,Datamatics Global Services Ltd,Senior,Data Scientist,Dashboards/Reporting
-مطور برمجيات متكامل (React Native),Drixal ERP,Mid,Other Data Role,NoSQL
-AI/ML Digital Solution Architect Oil & Gas,Yokogawa Electric Corporation,Lead/Manager+,Data Scientist,Machine Learning
+Senior Generative AI Engineer,InnovationTeam,Senior,Data Scientist,Python
+Senior Generative AI Engineer,InnovationTeam,Senior,Data Scientist,Java
+Senior Generative AI Engineer,InnovationTeam,Senior,Data Scientist,AWS
+Senior Generative AI Engineer,InnovationTeam,Senior,Data Scientist,Azure
+Senior Generative AI Engineer,InnovationTeam,Senior,Data Scientist,GCP
+Senior Generative AI Engineer,InnovationTeam,Senior,Data Scientist,Machine Learning
+Senior Generative AI Engineer,InnovationTeam,Senior,Data Scientist,Deep Learning
+Senior Generative AI Engineer,InnovationTeam,Senior,Data Scientist,NLP
+Senior Generative AI Engineer,InnovationTeam,Senior,Data Scientist,GenAI / LLMs
+Senior Generative AI Engineer,InnovationTeam,Senior,Data Scientist,Docker/K8s
+GCP AI Solutions Engineer - Real-Time ML & Insights,Müller`s Solutions,Mid,Data Scientist,GCP
+GCP AI Solutions Engineer - Real-Time ML & Insights,Müller`s Solutions,Mid,Data Scientist,Machine Learning
